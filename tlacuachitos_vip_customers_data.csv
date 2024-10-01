@@ -1,0 +1,1144 @@
+CustomerID,Age,Income,Tenure,Education,Industry,Geographic Location,Churn_Risk,Cohort
+1,56,52752.677346316035,3,Master,Technology,Europe,1,2023-08-31
+2,69,55297.36434833999,6,Bachelor,Technology,South America,0,2021-08-31
+3,46,57978.75338328269,3,Bachelor,Finance,Europe,1,2019-05-31
+4,32,60445.26689978731,3,High School,Education,South America,1,2021-02-28
+5,60,57741.87092866536,5,Bachelor,Entertainment,Asia,0,2018-10-31
+6,25,57132.404621737616,3,Master,Healthcare,North America,1,2022-06-30
+7,38,41393.692995377525,12,High School,Education,Australia,0,2018-06-30
+8,56,39788.83588144169,2,Bachelor,Finance,Asia,0,2018-06-30
+9,36,61135.473743886774,3,High School,Finance,South America,0,2022-04-30
+10,40,53651.847660498315,4,Master,Technology,Asia,0,2019-03-31
+11,28,62303.686092293836,9,Bachelor,Education,Australia,0,2023-08-31
+12,28,24390.842665586024,5,Master,Technology,North America,0,2022-09-30
+13,41,42488.204263736094,3,Bachelor,Healthcare,Australia,0,2022-08-31
+14,53,78605.28352865833,3,High School,Technology,South America,0,2018-07-31
+15,57,58287.997285211604,4,High School,Healthcare,Australia,0,2022-03-31
+16,41,54433.25676468729,4,High School,Finance,Asia,1,2022-10-31
+17,20,60618.865504545116,7,High School,Technology,Europe,1,2023-04-30
+18,39,83126.75788799272,6,Bachelor,Technology,Asia,0,2020-02-29
+19,19,79970.74313430542,3,High School,Entertainment,South America,0,2022-10-31
+20,41,26307.188640311095,6,Bachelor,Finance,North America,0,2020-07-31
+21,61,31842.482613959473,6,Bachelor,Entertainment,Australia,0,2023-06-30
+22,47,25798.84016673812,4,Bachelor,Healthcare,North America,0,2019-01-31
+23,55,38793.38166589606,7,Master,Healthcare,South America,0,2019-06-30
+24,19,50823.78947978385,4,Bachelor,Finance,Australia,0,2019-01-31
+25,38,53630.22716101695,7,PhD,Healthcare,Asia,0,2019-12-31
+26,50,27042.81885219121,3,High School,Finance,Asia,1,2022-09-30
+27,29,21989.72260446336,4,Bachelor,Healthcare,South America,0,2020-05-31
+28,39,38528.12919566824,7,Bachelor,Education,Australia,0,2022-08-31
+29,61,63742.568984069316,8,Bachelor,Technology,Asia,0,2022-06-30
+30,42,66355.44367540468,2,Bachelor,Education,South America,0,2018-05-31
+31,66,75587.37289006528,9,Bachelor,Finance,South America,0,2020-11-30
+32,44,49515.046236123286,6,Bachelor,Finance,North America,0,2019-07-31
+33,59,62422.30235585158,4,Bachelor,Education,Asia,0,2022-07-31
+34,45,65148.4244157449,7,PhD,Technology,Australia,0,2023-09-30
+35,33,42547.11450991068,2,PhD,Technology,Asia,0,2021-08-31
+36,32,55817.67322295699,2,Bachelor,Entertainment,Asia,1,2021-02-28
+37,64,59880.57688564631,3,High School,Healthcare,Asia,0,2023-02-28
+38,68,36362.635743723135,5,Master,Entertainment,South America,1,2019-10-31
+39,61,74631.44256661166,7,PhD,Technology,Europe,0,2021-04-30
+40,69,49417.8157591996,4,High School,Education,Europe,0,2020-02-29
+41,20,51305.52842220009,4,Bachelor,Healthcare,North America,1,2018-05-31
+42,54,35789.87930086813,5,PhD,Education,Asia,1,2022-06-30
+43,68,38308.607061837,5,Master,Entertainment,Europe,0,2022-01-31
+44,24,17052.280987519865,4,High School,Finance,North America,0,2018-03-31
+45,38,50827.33814627918,5,Bachelor,Education,South America,0,2021-02-28
+46,26,87585.33814462958,6,PhD,Entertainment,Asia,0,2019-02-28
+47,56,34720.70827843269,5,Master,Entertainment,Australia,1,2021-11-30
+48,35,94642.95392232458,7,Master,Entertainment,South America,0,2019-02-28
+49,21,71213.76893918621,8,Master,Finance,North America,0,2021-02-28
+50,42,42896.168285343374,4,High School,Finance,South America,1,2023-04-30
+51,31,50408.97057228318,5,Master,Finance,Australia,0,2021-08-31
+52,67,47973.49538127594,6,High School,Healthcare,South America,0,2023-10-31
+53,26,75592.45960096567,9,PhD,Finance,North America,0,2023-05-31
+54,43,57755.235951769406,6,Bachelor,Finance,Australia,1,2020-01-31
+55,19,67729.61072932722,0,Master,Finance,Australia,1,2019-04-30
+56,37,55372.577680420225,4,High School,Education,South America,0,2019-03-31
+57,45,48320.412191080744,2,Bachelor,Finance,Australia,0,2018-03-31
+58,64,54896.35047606072,6,High School,Healthcare,South America,1,2023-07-31
+59,24,43895.83649191878,9,Bachelor,Entertainment,Asia,0,2021-01-31
+60,61,28216.939347936535,0,Master,Education,Australia,0,2022-07-31
+61,25,62205.32863934976,3,Master,Technology,South America,1,2021-02-28
+62,64,27482.533274853697,0,Bachelor,Finance,Asia,1,2023-03-31
+63,52,45967.48734807237,8,High School,Entertainment,Australia,0,2018-01-31
+64,31,43402.03568576874,2,PhD,Entertainment,Asia,0,2023-11-30
+65,34,59650.308965811055,4,Master,Education,Australia,0,2019-07-31
+66,53,73470.56877400294,4,Master,Technology,North America,0,2022-04-30
+67,67,68074.55970951123,5,Master,Healthcare,North America,1,2020-06-30
+68,57,60086.375283426394,4,Master,Entertainment,South America,0,2022-07-31
+69,21,40551.92531568827,3,Bachelor,Entertainment,Europe,1,2019-02-28
+70,19,47247.962696053044,2,Master,Entertainment,North America,0,2019-01-31
+71,23,45060.89439416273,8,Bachelor,Entertainment,Europe,0,2020-03-31
+72,59,42945.778299058344,4,Master,Education,Asia,0,2018-09-30
+73,21,43963.23337059744,5,Master,Technology,Asia,1,2021-05-31
+74,46,43562.92947398614,5,High School,Entertainment,Europe,0,2021-12-31
+75,35,42898.60710949256,7,Bachelor,Healthcare,South America,0,2018-12-31
+76,43,64278.245270428306,5,High School,Healthcare,Australia,0,2018-10-31
+77,61,34180.44666700862,8,High School,Finance,Europe,0,2018-06-30
+78,51,39057.88846544254,5,Bachelor,Entertainment,Europe,0,2020-10-31
+79,27,26248.89918440732,4,Master,Entertainment,Europe,0,2022-04-30
+80,53,71232.24203766274,6,High School,Entertainment,Europe,0,2021-05-31
+81,31,38052.45562013619,5,Bachelor,Entertainment,Europe,0,2018-06-30
+82,48,59911.628475832105,1,PhD,Entertainment,South America,0,2018-02-28
+83,65,57129.782903184605,7,Master,Healthcare,North America,0,2019-03-31
+84,32,69782.57931636156,4,Bachelor,Technology,Australia,0,2019-05-31
+85,25,46849.74952437359,4,Master,Technology,North America,0,2019-04-30
+86,31,35786.90319071132,4,Bachelor,Finance,Europe,0,2020-04-30
+87,40,26663.750361925573,6,High School,Healthcare,North America,0,2023-12-31
+88,57,8230.465328268496,6,High School,Entertainment,South America,0,2018-10-31
+89,38,52420.29838818354,4,High School,Technology,Asia,0,2018-10-31
+90,33,61632.08858733372,5,Bachelor,Education,North America,0,2018-10-31
+91,62,57075.32157796761,4,PhD,Education,Australia,1,2020-04-30
+92,35,27053.535452407883,4,Master,Education,South America,1,2019-12-31
+93,64,65582.39217667893,8,Bachelor,Entertainment,Asia,0,2019-07-31
+94,41,39526.75957526971,4,Bachelor,Entertainment,South America,0,2023-08-31
+95,43,36396.447587873685,7,High School,Finance,Europe,0,2022-08-31
+96,42,39190.51647045225,7,Master,Finance,Asia,1,2023-07-31
+97,62,51176.13383759116,9,Master,Finance,Australia,0,2021-06-30
+98,58,27729.476427243917,6,High School,Education,Asia,0,2018-12-31
+99,46,49444.46129421323,5,High School,Entertainment,Australia,1,2019-06-30
+100,32,56441.72368075504,10,Bachelor,Education,Europe,0,2019-11-30
+101,62,66609.85844365423,8,Bachelor,Finance,Australia,0,2018-06-30
+102,18,52639.34985831866,5,Bachelor,Entertainment,South America,0,2022-05-31
+103,42,29905.57252709313,6,Bachelor,Healthcare,North America,0,2021-06-30
+104,24,52233.353414783356,1,Bachelor,Technology,South America,0,2023-06-30
+105,26,34096.1258908082,10,High School,Technology,South America,0,2020-06-30
+106,41,33230.82265449574,10,Bachelor,Finance,Asia,0,2018-09-30
+107,18,29559.445946900312,3,Bachelor,Education,Europe,1,2021-06-30
+108,61,21331.194801589638,6,Master,Healthcare,North America,1,2020-10-31
+109,25,41492.552480969076,8,PhD,Entertainment,Australia,0,2021-04-30
+110,41,66933.33114570362,1,Master,Education,Asia,0,2019-05-31
+111,28,83847.26023141312,7,Master,Finance,Europe,0,2020-05-31
+112,68,41396.22262489859,6,Bachelor,Education,North America,0,2022-02-28
+113,34,66291.58290154484,5,Bachelor,Finance,South America,1,2022-01-31
+114,25,44081.265226451076,5,PhD,Technology,Europe,0,2023-01-31
+115,52,25238.96420827158,8,High School,Technology,Europe,0,2021-10-31
+116,52,60514.13392169116,2,Bachelor,Education,Europe,0,2021-10-31
+117,50,53522.2113019335,5,Bachelor,Healthcare,South America,1,2019-05-31
+118,22,77270.29411941674,5,Bachelor,Entertainment,Australia,0,2023-06-30
+119,59,26979.822770258663,3,High School,Finance,Asia,1,2018-05-31
+120,56,91940.49062502915,5,Bachelor,Entertainment,Australia,0,2022-06-30
+121,58,73875.75984782234,4,Master,Technology,North America,1,2019-04-30
+122,45,49731.14639657219,3,Bachelor,Healthcare,Asia,0,2018-07-31
+123,24,45520.43312302223,8,Master,Healthcare,North America,0,2018-08-31
+124,26,39262.85196697074,4,Bachelor,Entertainment,South America,0,2023-12-31
+125,25,51645.98958781689,4,PhD,Technology,Australia,0,2021-02-28
+126,29,47240.957668865325,2,Bachelor,Entertainment,Europe,0,2022-06-30
+127,51,57706.931203709166,5,Bachelor,Education,Asia,0,2019-03-31
+128,50,45584.50008472541,6,High School,Healthcare,Europe,0,2022-02-28
+129,65,71224.45537244994,4,High School,Healthcare,North America,0,2022-08-31
+130,40,51875.6904674967,4,Bachelor,Education,Europe,1,2018-09-30
+131,41,46147.74458111402,1,Bachelor,Technology,Europe,0,2018-08-31
+132,54,65364.29872669085,3,Bachelor,Healthcare,South America,0,2019-07-31
+133,52,25662.145547033717,5,High School,Finance,South America,1,2022-03-31
+134,61,55114.82528415701,4,Master,Finance,Australia,0,2023-12-31
+135,57,50383.5700461415,5,Master,Technology,North America,1,2022-09-30
+136,39,28837.24204391326,7,High School,Education,South America,0,2023-08-31
+137,44,24372.450806472385,8,Bachelor,Entertainment,South America,0,2020-07-31
+138,52,65155.175044123665,4,Master,Technology,Australia,0,2018-03-31
+139,18,64441.8603552604,6,Bachelor,Entertainment,Asia,0,2021-07-31
+140,52,52588.37644451539,2,Bachelor,Technology,Australia,0,2020-05-31
+141,54,75749.86664682085,7,Bachelor,Finance,Europe,0,2018-10-31
+142,64,56614.52272791903,3,High School,Education,Europe,0,2018-12-31
+143,31,68747.07979116823,9,Bachelor,Finance,South America,0,2021-10-31
+144,20,56304.86880776781,3,High School,Education,South America,0,2020-06-30
+145,18,45862.856515970125,5,Bachelor,Entertainment,Australia,0,2020-08-31
+146,22,34137.031228499865,3,High School,Technology,Australia,0,2021-11-30
+147,43,40948.45617645856,7,PhD,Healthcare,North America,0,2023-03-31
+148,31,46143.165931291725,3,Bachelor,Healthcare,Europe,0,2020-02-29
+149,56,70447.29653160057,6,High School,Education,Australia,0,2018-03-31
+150,44,61548.79337794495,6,Bachelor,Education,Asia,0,2019-11-30
+151,26,54954.786023639244,3,High School,Finance,North America,0,2022-02-28
+152,32,63050.14861346112,2,Bachelor,Healthcare,Australia,0,2020-12-31
+153,32,57910.75573538724,4,Bachelor,Finance,South America,0,2019-01-31
+154,43,53929.064166602395,8,High School,Entertainment,Australia,0,2020-05-31
+155,59,27520.108977395677,5,High School,Healthcare,South America,0,2021-02-28
+156,30,67087.36359292515,10,Bachelor,Entertainment,South America,0,2018-05-31
+157,68,43122.322287102856,4,High School,Technology,Europe,0,2019-08-31
+158,49,66328.10416433816,1,Master,Finance,Europe,0,2019-02-28
+159,56,67778.15437266334,4,Bachelor,Education,Australia,0,2018-08-31
+160,66,39949.412096669796,7,Bachelor,Healthcare,Australia,0,2021-12-31
+161,69,64245.741208939064,7,Bachelor,Finance,Asia,0,2019-01-31
+162,49,44585.18781116152,6,Bachelor,Education,North America,0,2019-12-31
+163,21,44674.515085299136,7,PhD,Technology,North America,0,2023-05-31
+164,47,53862.09851873987,7,High School,Healthcare,Australia,0,2020-10-31
+165,54,54267.08883754311,2,High School,Entertainment,Europe,1,2022-03-31
+166,40,50578.27273026338,2,High School,Technology,Asia,0,2018-03-31
+167,56,29985.67976666065,9,High School,Education,North America,1,2022-10-31
+168,62,48178.30040773491,1,High School,Healthcare,Australia,0,2023-12-31
+169,32,84177.1809228261,5,Bachelor,Healthcare,Europe,0,2022-07-31
+170,60,8239.936567969671,7,Bachelor,Technology,Europe,0,2021-06-30
+171,46,63046.10660342619,3,PhD,Healthcare,Europe,0,2019-09-30
+172,53,65856.87400034463,8,High School,Education,South America,0,2018-10-31
+173,30,29624.78421070772,6,Bachelor,Technology,Europe,0,2022-09-30
+174,49,42958.416298856806,7,PhD,Entertainment,Australia,0,2020-01-31
+175,24,34989.242630849825,5,Master,Technology,Asia,1,2022-08-31
+176,68,77809.48065967819,3,Bachelor,Technology,Australia,0,2021-02-28
+177,39,66545.37900166673,9,Bachelor,Entertainment,Europe,0,2023-01-31
+178,45,67271.38061697099,5,Master,Education,Asia,0,2021-11-30
+179,19,51809.70838992193,8,Bachelor,Finance,North America,0,2022-06-30
+180,59,69681.37924624464,12,High School,Finance,North America,0,2021-10-31
+181,62,49876.45149406883,5,Master,Entertainment,Australia,0,2023-08-31
+182,23,70387.36440815838,6,Bachelor,Education,Asia,0,2018-04-30
+183,45,47769.55363831669,2,High School,Healthcare,Australia,0,2023-06-30
+184,45,39811.37124929841,2,Bachelor,Entertainment,Asia,0,2021-07-31
+185,61,77164.25399497915,8,Bachelor,Finance,Asia,0,2023-02-28
+186,61,49687.268590022955,3,Master,Education,Australia,1,2018-04-30
+187,37,36518.00137636304,5,High School,Technology,Asia,0,2023-05-31
+188,47,36355.491537650414,3,Master,Education,Europe,0,2023-02-28
+189,28,36401.319904714386,5,Bachelor,Education,Asia,0,2018-02-28
+190,45,62666.635265440535,3,Bachelor,Finance,Asia,1,2018-09-30
+191,42,48517.05684432176,4,High School,Finance,Australia,0,2022-09-30
+192,56,84469.38463995623,5,Master,Healthcare,North America,0,2021-09-30
+193,50,67792.67273486182,6,PhD,Healthcare,South America,0,2019-06-30
+194,18,53857.07195140957,6,Bachelor,Entertainment,Asia,0,2021-12-31
+195,44,71058.46311797424,8,High School,Technology,South America,0,2021-06-30
+196,69,42567.38995295775,7,Bachelor,Healthcare,Asia,0,2021-05-31
+197,30,22178.212937610413,6,Master,Finance,Australia,0,2022-10-31
+198,58,35156.2541363789,8,High School,Education,Australia,0,2021-06-30
+199,20,52208.11744054404,9,Bachelor,Entertainment,Asia,0,2020-11-30
+200,56,46661.877917432896,6,Bachelor,Healthcare,Australia,0,2021-02-28
+201,23,62366.23082386191,7,Bachelor,Education,Australia,0,2023-07-31
+202,25,48130.79327984796,8,Bachelor,Education,Asia,0,2021-05-31
+203,44,61220.520889425876,2,High School,Healthcare,North America,0,2022-02-28
+204,26,72514.57445846434,3,Master,Technology,Asia,0,2023-12-31
+205,54,48084.56224083842,2,Bachelor,Technology,North America,0,2021-09-30
+206,50,58327.17933066682,4,Bachelor,Entertainment,Australia,1,2023-11-30
+207,68,23678.19739137149,7,Bachelor,Technology,North America,1,2019-07-31
+208,59,48141.59031889161,7,High School,Entertainment,Australia,0,2019-05-31
+209,61,31520.62811380968,9,Master,Finance,North America,0,2023-05-31
+210,41,52178.40165694021,6,Bachelor,Healthcare,North America,0,2022-08-31
+211,32,53539.99635015996,2,Bachelor,Education,Asia,0,2021-05-31
+212,49,53490.145368706915,4,Bachelor,Entertainment,North America,0,2021-06-30
+213,49,42798.1611530556,9,Bachelor,Technology,Australia,0,2018-06-30
+214,41,84477.03292602251,3,High School,Entertainment,Asia,0,2023-09-30
+215,58,30979.677325353976,3,High School,Entertainment,North America,0,2021-04-30
+216,69,30062.81259257726,9,High School,Technology,Asia,0,2021-05-31
+217,66,74824.67563604878,3,Master,Technology,South America,0,2018-09-30
+218,66,39435.8130411516,7,High School,Healthcare,Asia,0,2018-08-31
+219,69,35829.639686953546,7,High School,Education,South America,0,2021-08-31
+220,29,84543.6784658467,3,Master,Healthcare,South America,0,2022-10-31
+221,56,64785.840752353455,4,High School,Healthcare,Asia,0,2023-07-31
+222,19,41083.03177792667,1,Bachelor,Technology,Australia,0,2019-01-31
+223,20,53262.61858540341,3,Bachelor,Technology,Australia,0,2019-07-31
+224,66,79188.06927241526,5,High School,Education,Australia,0,2022-01-31
+225,54,60374.31021426301,5,Bachelor,Entertainment,Europe,1,2020-06-30
+226,66,69292.22682659664,6,High School,Healthcare,South America,0,2023-06-30
+227,34,62072.04768100708,1,Master,Education,Asia,0,2022-11-30
+228,66,63953.80018930312,6,Bachelor,Healthcare,Australia,0,2022-05-31
+229,19,50596.12543865641,6,High School,Entertainment,Australia,1,2022-04-30
+230,19,50170.22718464329,1,High School,Healthcare,Asia,1,2020-07-31
+231,45,54005.755780226806,3,Bachelor,Finance,South America,1,2019-03-31
+232,40,61016.792111754505,6,High School,Education,Asia,0,2019-08-31
+233,54,45750.2702625108,8,High School,Technology,Europe,1,2018-05-31
+234,49,51830.80901754507,8,Bachelor,Healthcare,Europe,0,2018-07-31
+235,50,45344.81576066022,8,Master,Education,Asia,0,2019-06-30
+236,18,51735.27232991794,8,Bachelor,Education,South America,0,2022-08-31
+237,36,31235.055035272293,2,Master,Healthcare,Australia,1,2021-09-30
+238,19,89089.66200439277,6,Master,Technology,Europe,0,2020-04-30
+239,61,39005.898218316855,4,High School,Technology,Europe,0,2022-02-28
+240,43,44578.08912860853,8,Master,Healthcare,South America,0,2018-02-28
+241,49,37711.03409667796,11,Master,Education,Europe,0,2023-08-31
+242,23,59235.6312374681,2,Bachelor,Technology,Europe,0,2019-12-31
+243,49,47059.96053136503,5,PhD,Healthcare,South America,1,2021-12-31
+244,21,35542.88734854173,10,High School,Healthcare,Asia,0,2021-09-30
+245,28,59853.25049336514,4,High School,Healthcare,Australia,1,2022-10-31
+246,34,61874.73721884187,8,Master,Education,Australia,0,2020-12-31
+247,55,48996.855132840996,4,Bachelor,Technology,Europe,0,2018-02-28
+248,41,40045.61072926885,3,Bachelor,Education,Australia,1,2019-06-30
+249,22,82865.99008339577,6,High School,Finance,Asia,0,2022-01-31
+250,69,55101.01445787847,7,Master,Technology,Europe,0,2018-08-31
+251,51,30888.965225700143,4,Master,Education,Australia,0,2022-10-31
+252,23,71210.60691504151,7,Bachelor,Technology,North America,0,2019-03-31
+253,39,37163.378758811436,4,PhD,Finance,North America,1,2019-05-31
+254,28,91128.17510404874,3,Bachelor,Entertainment,North America,1,2019-11-30
+255,65,51194.8678629138,4,High School,Healthcare,North America,0,2023-06-30
+256,33,65199.7405408303,6,Bachelor,Education,North America,0,2023-10-31
+257,50,18799.736587296484,6,Master,Finance,Europe,0,2020-03-31
+258,26,30737.886738650555,8,High School,Finance,South America,0,2021-01-31
+259,23,70007.89429641073,7,High School,Technology,South America,0,2022-01-31
+260,33,54767.22598443706,2,Master,Technology,Europe,0,2023-04-30
+261,46,80635.94634071109,6,PhD,Healthcare,Europe,0,2020-10-31
+262,20,57277.62657844384,4,Bachelor,Technology,Asia,0,2019-06-30
+263,37,52179.4435961156,2,High School,Education,South America,0,2023-04-30
+264,53,75703.60986233308,9,PhD,Education,North America,1,2021-08-31
+265,36,65152.054988381664,5,Master,Education,Europe,0,2019-05-31
+266,43,47056.08201085566,3,Bachelor,Entertainment,North America,1,2022-11-30
+267,20,33588.438492523295,2,Master,Education,South America,1,2019-01-31
+268,36,14425.765028517591,6,Master,Technology,Australia,0,2022-04-30
+269,37,43435.01495295942,3,PhD,Technology,Australia,0,2022-12-31
+270,49,32204.97357167942,6,Master,Education,Europe,0,2021-06-30
+271,24,88965.56964851575,5,Bachelor,Finance,Asia,0,2023-04-30
+272,69,40244.4358389496,2,Bachelor,Finance,North America,0,2023-06-30
+273,58,39834.36491562433,7,Bachelor,Finance,Europe,0,2020-10-31
+274,50,27181.326881170316,6,Bachelor,Healthcare,Asia,0,2023-11-30
+275,57,46005.24007215945,5,Master,Entertainment,North America,1,2023-04-30
+276,56,40031.97605536681,8,PhD,Education,South America,0,2020-09-30
+277,35,76065.9414311669,3,Bachelor,Healthcare,Australia,0,2018-12-31
+278,57,52527.14239122477,5,Bachelor,Finance,Asia,0,2019-07-31
+279,18,49867.03966015434,5,Bachelor,Education,North America,1,2018-09-30
+280,28,47979.90868876103,4,Bachelor,Healthcare,Europe,1,2019-05-31
+281,45,61792.62380283803,3,Bachelor,Technology,North America,0,2022-02-28
+282,42,43215.07751548249,3,High School,Finance,Europe,0,2021-03-31
+283,67,60008.091402977574,5,Bachelor,Healthcare,Australia,0,2021-05-31
+284,40,74209.54731091167,5,High School,Technology,Australia,0,2018-10-31
+285,48,56901.1251544947,6,High School,Finance,North America,0,2018-12-31
+286,47,46254.030757622975,6,Master,Entertainment,North America,1,2019-03-31
+287,59,35698.11243542148,6,High School,Finance,Europe,0,2020-04-30
+288,52,45873.14020479388,6,Bachelor,Entertainment,Europe,0,2018-04-30
+289,24,58446.183109588565,7,High School,Entertainment,Asia,0,2020-12-31
+290,33,27012.08987124018,2,High School,Entertainment,Asia,0,2023-05-31
+291,43,62473.14136563924,5,Master,Education,Asia,0,2021-11-30
+292,65,53114.19032342097,3,Bachelor,Education,North America,0,2021-03-31
+293,69,47762.16260361922,1,Master,Entertainment,Asia,0,2021-02-28
+294,66,40108.79882823497,8,Bachelor,Technology,North America,1,2021-08-31
+295,19,42854.33448545949,0,High School,Entertainment,Australia,0,2022-03-31
+296,18,58959.590621979616,4,Bachelor,Healthcare,South America,0,2020-02-29
+297,65,48076.827108573336,3,Master,Entertainment,Australia,0,2020-12-31
+298,29,42482.90049082145,3,Bachelor,Education,North America,1,2023-09-30
+299,22,57028.45240057284,2,PhD,Education,North America,0,2018-01-31
+300,54,57622.846662381955,3,Bachelor,Healthcare,South America,0,2022-05-31
+301,49,31262.374080139285,8,Bachelor,Healthcare,Europe,1,2018-06-30
+302,26,58572.21044865477,6,Master,Finance,Europe,0,2021-01-31
+303,58,87525.47319290665,4,PhD,Technology,Europe,1,2018-02-28
+304,52,57044.31184063257,6,Bachelor,Technology,Asia,0,2023-09-30
+305,36,24514.891927344983,5,High School,Technology,Europe,0,2021-05-31
+306,65,52660.63087759319,1,Bachelor,Education,Asia,0,2022-03-31
+307,33,22537.76938709473,3,Bachelor,Technology,Asia,0,2021-11-30
+308,20,97510.57508096239,3,PhD,Finance,Europe,0,2019-01-31
+309,37,83535.12030476712,3,Bachelor,Finance,Europe,0,2023-09-30
+310,41,40010.92275806906,9,High School,Technology,South America,0,2023-06-30
+311,50,16314.992015092459,2,PhD,Healthcare,South America,0,2022-11-30
+312,41,36824.432193608234,3,Master,Finance,Asia,0,2023-08-31
+313,69,47285.13891590414,5,High School,Healthcare,South America,1,2022-11-30
+314,28,23572.043869403922,4,PhD,Education,Asia,0,2018-10-31
+315,66,48964.66227505659,3,Bachelor,Finance,North America,1,2019-01-31
+316,25,47186.32003594623,3,Bachelor,Healthcare,Asia,0,2018-02-28
+317,53,51877.32045594333,0,PhD,Technology,Asia,0,2019-03-31
+318,55,53444.6776540697,2,Bachelor,Education,South America,0,2021-10-31
+319,57,35515.73600184273,7,High School,Entertainment,North America,0,2022-09-30
+320,37,37198.78940375519,4,Bachelor,Entertainment,Australia,1,2018-10-31
+321,52,50683.88246705075,3,Master,Technology,Australia,0,2019-10-31
+322,65,40535.11805189079,11,High School,Education,Australia,1,2018-08-31
+323,42,63612.42152625884,2,Bachelor,Education,North America,0,2019-09-30
+324,52,50538.418246515495,6,Bachelor,Education,Europe,0,2019-10-31
+325,42,77975.04850996211,11,Bachelor,Education,North America,1,2021-09-30
+326,46,62307.23657406839,3,Bachelor,Entertainment,South America,1,2021-04-30
+327,35,66555.70804085897,5,Master,Healthcare,Asia,1,2019-10-31
+328,63,51988.49101947179,6,Bachelor,Education,Asia,0,2020-06-30
+329,35,52360.42251935445,4,Bachelor,Healthcare,South America,0,2023-02-28
+330,19,75969.80869863766,3,High School,Education,South America,0,2021-09-30
+331,52,44325.60674694456,10,Bachelor,Finance,Asia,0,2020-11-30
+332,33,58201.69031247859,2,Master,Finance,Europe,1,2021-06-30
+333,58,46006.43701757814,4,Bachelor,Finance,Europe,0,2018-05-31
+334,53,45970.459124190456,7,Bachelor,Education,Europe,0,2020-03-31
+335,50,32466.5560138742,6,Bachelor,Healthcare,South America,0,2023-10-31
+336,21,38862.28473714589,7,Bachelor,Entertainment,Asia,0,2023-02-28
+337,50,36075.95822875324,5,High School,Technology,Asia,0,2020-08-31
+338,31,58915.53213384754,7,Master,Entertainment,Asia,0,2018-08-31
+339,38,65603.08892335494,1,High School,Education,North America,1,2019-06-30
+340,65,48578.699396323966,6,Master,Finance,North America,0,2019-03-31
+341,37,53444.4189524548,5,Bachelor,Finance,Australia,1,2020-02-29
+342,25,47712.929673423554,15,Bachelor,Healthcare,North America,0,2022-05-31
+343,24,37838.36120160522,6,High School,Education,Europe,0,2021-08-31
+344,20,62933.94537195318,3,Master,Entertainment,Europe,0,2020-08-31
+345,34,59788.020406392185,2,High School,Education,Europe,1,2020-04-30
+346,50,21611.810220440544,5,High School,Education,Europe,0,2021-03-31
+347,65,45753.3649814712,7,Bachelor,Finance,Australia,0,2020-08-31
+348,29,36769.589881888576,3,Master,Entertainment,Europe,0,2019-06-30
+349,68,44135.92145502162,3,High School,Technology,South America,0,2023-10-31
+350,39,39943.526494306105,4,High School,Finance,South America,1,2018-11-30
+351,39,49303.694438879,2,Master,Entertainment,South America,1,2020-08-31
+352,63,45051.27897299789,3,Master,Healthcare,North America,0,2019-08-31
+353,47,44732.88959268742,5,High School,Finance,Asia,0,2021-04-30
+354,55,66610.8264250807,7,Bachelor,Healthcare,Australia,0,2018-08-31
+355,55,58357.67991003873,5,Bachelor,Finance,South America,0,2020-11-30
+356,62,39441.5802454935,7,Bachelor,Education,South America,0,2023-09-30
+357,68,41666.79900779868,2,Master,Entertainment,Europe,0,2019-09-30
+358,25,57376.89583099419,6,High School,Healthcare,South America,0,2019-12-31
+359,44,57356.293575541495,4,Master,Finance,Europe,0,2019-05-31
+360,44,40943.296414068966,2,Bachelor,Healthcare,Europe,1,2019-06-30
+361,51,46490.13999646753,6,Bachelor,Finance,Asia,0,2018-12-31
+362,38,77702.09060130452,3,Bachelor,Finance,North America,0,2019-04-30
+363,47,41201.778672179855,3,PhD,Technology,Europe,1,2018-04-30
+364,50,78662.06882688178,4,High School,Technology,Europe,0,2020-10-31
+365,45,66555.00413788707,4,High School,Technology,Asia,0,2021-10-31
+366,64,75881.24412583199,5,High School,Healthcare,Europe,0,2020-07-31
+367,50,40563.920418958565,4,PhD,Education,Australia,0,2020-01-31
+368,22,47471.66188905858,6,Master,Finance,North America,1,2019-12-31
+369,65,43262.54286836656,4,Bachelor,Entertainment,Australia,1,2023-05-31
+370,36,66901.29787889303,7,High School,Technology,South America,0,2020-01-31
+371,21,41484.74340991866,9,Master,Healthcare,North America,0,2020-04-30
+372,52,60968.232400143104,3,Master,Healthcare,South America,0,2020-12-31
+373,66,60174.49116788062,4,Bachelor,Healthcare,Europe,1,2018-06-30
+374,34,49279.55703928735,3,Bachelor,Entertainment,Asia,0,2023-06-30
+375,61,69479.89601246503,4,High School,Entertainment,Australia,0,2023-07-31
+376,45,51615.19804589907,5,Bachelor,Technology,South America,0,2023-12-31
+377,47,62511.28577912455,2,Master,Entertainment,Europe,0,2021-12-31
+378,46,42579.449466233265,5,High School,Technology,Australia,0,2023-10-31
+379,63,39148.44778839762,10,Bachelor,Entertainment,Australia,0,2023-07-31
+380,23,60967.18293886412,5,High School,Entertainment,South America,1,2021-12-31
+381,52,56462.60366500622,5,Master,Entertainment,Europe,0,2023-05-31
+382,58,53649.61496192549,7,Bachelor,Technology,Asia,1,2021-08-31
+383,54,44844.674780933245,5,High School,Finance,South America,0,2023-03-31
+384,41,73238.14214789456,7,Bachelor,Technology,Australia,0,2021-10-31
+385,46,33251.2129361923,3,Bachelor,Finance,Australia,1,2019-07-31
+386,66,32429.85485403542,3,High School,Healthcare,North America,0,2023-04-30
+387,63,64132.497577457434,6,Master,Healthcare,Europe,0,2023-11-30
+388,48,62901.445762146046,4,High School,Technology,North America,1,2022-02-28
+389,52,55306.44168487802,4,Bachelor,Finance,Asia,0,2023-03-31
+390,50,45680.71667145791,2,High School,Finance,South America,0,2021-05-31
+391,69,57536.33193785618,2,High School,Finance,Australia,0,2018-07-31
+392,38,75812.45445679301,3,High School,Healthcare,Europe,0,2018-09-30
+393,49,87733.19311811338,4,High School,Technology,Australia,0,2018-04-30
+394,40,25153.794417872654,6,Bachelor,Education,North America,0,2022-01-31
+395,50,43716.1982112718,4,High School,Finance,North America,0,2018-06-30
+396,20,42773.401055227405,5,Master,Finance,South America,0,2019-09-30
+397,35,74397.79207549524,4,High School,Education,Europe,0,2019-03-31
+398,42,12780.575201521977,5,High School,Technology,Europe,1,2023-07-31
+399,59,57707.52789598319,8,Bachelor,Finance,South America,0,2023-06-30
+400,48,46147.845373714496,4,Master,Technology,North America,0,2022-08-31
+401,20,74571.6912432146,2,Bachelor,Finance,North America,0,2023-08-31
+402,57,72515.5826000669,2,Master,Entertainment,North America,1,2020-08-31
+403,63,55482.60102240039,3,High School,Finance,Australia,1,2023-06-30
+404,41,26304.15393932305,6,Master,Entertainment,Asia,0,2020-05-31
+405,67,41391.657764973,4,High School,Technology,North America,1,2023-06-30
+406,49,43034.13385079392,3,High School,Finance,Asia,0,2020-10-31
+407,64,30103.17808319803,4,Bachelor,Healthcare,Asia,1,2020-03-31
+408,39,67318.76422789056,3,Bachelor,Healthcare,Europe,0,2022-12-31
+409,40,28198.60254088391,8,PhD,Education,South America,0,2021-03-31
+410,19,79479.91262680569,4,High School,Healthcare,Australia,0,2021-08-31
+411,44,79442.33951068188,8,PhD,Entertainment,Asia,0,2020-12-31
+412,59,44224.09607210741,4,Bachelor,Healthcare,Australia,1,2019-07-31
+413,19,54927.43055194724,4,Bachelor,Healthcare,Europe,0,2021-09-30
+414,43,48915.74782894364,1,High School,Healthcare,North America,1,2019-09-30
+415,34,63527.37200542536,3,High School,Finance,Asia,0,2019-11-30
+416,57,69120.16007847138,8,PhD,Education,South America,0,2020-03-31
+417,50,53869.95488180099,6,Bachelor,Technology,Europe,0,2023-12-31
+418,26,57036.75064671594,6,Bachelor,Education,Australia,0,2019-07-31
+419,60,40690.936040907254,9,PhD,Entertainment,North America,0,2021-05-31
+420,65,56550.70950335508,4,High School,Finance,Australia,0,2020-02-29
+421,56,52441.43118385971,3,Bachelor,Finance,South America,0,2020-04-30
+422,46,36323.08266872965,8,Bachelor,Healthcare,Asia,0,2023-04-30
+423,59,49789.44335985333,3,High School,Healthcare,South America,0,2023-08-31
+424,43,44252.2622302089,2,High School,Entertainment,Australia,1,2022-03-31
+425,52,40857.56627272912,2,Bachelor,Finance,Australia,0,2021-12-31
+426,67,32802.63188600648,7,Bachelor,Technology,South America,0,2018-10-31
+427,42,50937.54099874214,5,Master,Education,South America,0,2021-03-31
+428,41,38292.889905119846,6,High School,Finance,South America,0,2019-07-31
+429,30,42933.37741545951,5,PhD,Technology,North America,1,2023-04-30
+430,24,66126.86412825933,9,High School,Technology,Australia,0,2019-07-31
+431,53,59481.74151902567,4,Bachelor,Education,Europe,0,2023-02-28
+432,62,35318.5002820812,5,Bachelor,Technology,North America,0,2019-01-31
+433,37,55278.36601859654,7,High School,Entertainment,North America,0,2020-01-31
+434,18,51991.71047396233,3,High School,Technology,North America,1,2021-06-30
+435,25,75525.4431280019,8,Master,Entertainment,Europe,0,2021-03-31
+436,63,70747.17501308411,5,Master,Technology,South America,1,2020-06-30
+437,33,26993.769114352457,5,High School,Healthcare,Australia,0,2018-05-31
+438,31,62916.91503437902,2,Bachelor,Technology,Asia,0,2019-06-30
+439,29,68977.95877435549,8,Bachelor,Entertainment,Asia,0,2019-09-30
+440,68,58390.38813092497,9,High School,Technology,Australia,0,2022-02-28
+441,40,44968.81784458714,3,Bachelor,Technology,Europe,1,2018-06-30
+442,32,86200.90872675704,4,Master,Technology,Asia,0,2022-02-28
+443,45,59771.139213905335,4,Bachelor,Entertainment,North America,0,2023-06-30
+444,51,79648.16410592341,4,PhD,Technology,Asia,1,2018-01-31
+445,19,70272.17644210262,9,High School,Education,Australia,0,2022-09-30
+446,49,56962.01990334956,5,Bachelor,Education,North America,0,2020-06-30
+447,40,41304.48632789559,6,Bachelor,Entertainment,Asia,0,2022-10-31
+448,39,49638.42682771248,7,Bachelor,Healthcare,Australia,0,2022-04-30
+449,68,46671.313208096704,11,Bachelor,Education,Europe,0,2021-01-31
+450,42,31782.215665260952,10,High School,Finance,Australia,0,2021-12-31
+451,39,59754.22362439554,7,Master,Education,Europe,0,2018-01-31
+452,39,73510.29502939113,4,Master,Finance,North America,0,2019-07-31
+453,66,45525.447581728295,5,High School,Entertainment,Australia,0,2021-10-31
+454,69,82454.84748837106,4,Master,Healthcare,South America,0,2023-07-31
+455,59,26636.258212073993,5,Bachelor,Finance,South America,1,2018-02-28
+456,23,65815.45322580806,6,Master,Finance,South America,1,2022-08-31
+457,32,75072.80353108115,6,High School,Education,South America,0,2019-05-31
+458,60,46939.54128528409,0,High School,Finance,South America,0,2019-10-31
+459,54,47209.15242285679,4,Bachelor,Entertainment,Europe,0,2020-03-31
+460,50,65641.47763766602,4,Bachelor,Entertainment,Australia,0,2022-07-31
+461,25,57589.86664939302,7,Bachelor,Entertainment,North America,0,2020-08-31
+462,61,20038.829848107398,9,Bachelor,Education,South America,0,2022-12-31
+463,61,37349.40268190929,3,High School,Healthcare,South America,0,2020-04-30
+464,22,49796.7567792881,3,Bachelor,Education,North America,1,2020-04-30
+465,56,29454.527304723997,4,Bachelor,Entertainment,North America,0,2020-01-31
+466,21,42887.385253551445,3,Bachelor,Education,South America,0,2020-02-29
+467,23,29829.718621340988,5,High School,Entertainment,Europe,0,2023-11-30
+468,62,44447.44054169914,7,High School,Technology,North America,0,2019-05-31
+469,49,44950.65909018259,2,Master,Technology,Australia,0,2018-07-31
+470,69,55276.3201489057,8,High School,Finance,Australia,0,2022-08-31
+471,47,48623.61014000749,5,High School,Healthcare,Europe,0,2023-04-30
+472,64,57541.84581561134,6,High School,Technology,Asia,0,2019-08-31
+473,52,55753.160112108824,4,Bachelor,Entertainment,Europe,0,2021-02-28
+474,57,65470.09991396466,5,Bachelor,Education,South America,1,2022-10-31
+475,69,63106.745614401734,9,Bachelor,Education,Asia,0,2019-04-30
+476,33,61521.85752702075,3,High School,Finance,South America,0,2022-03-31
+477,30,96573.01142700083,4,Master,Education,Australia,0,2020-03-31
+478,67,55211.03954963493,5,High School,Technology,North America,1,2022-03-31
+479,59,88903.57255788293,4,Master,Education,South America,0,2019-04-30
+480,47,56183.276033659,3,Bachelor,Technology,Australia,0,2022-12-31
+481,36,48757.23627791162,9,Bachelor,Technology,Europe,0,2021-04-30
+482,34,44402.52226680204,4,High School,Healthcare,South America,0,2023-07-31
+483,36,72645.88697672644,5,High School,Finance,Australia,1,2018-02-28
+484,45,74607.55089331907,4,Bachelor,Entertainment,North America,1,2021-12-31
+485,43,58996.757839470934,5,Bachelor,Technology,South America,0,2022-04-30
+486,54,67003.20161754059,5,High School,Finance,Australia,0,2019-12-31
+487,43,30841.69301115375,9,PhD,Entertainment,South America,0,2018-02-28
+488,40,26768.302662316823,5,PhD,Education,North America,0,2023-05-31
+489,26,68694.90328696181,8,Bachelor,Finance,South America,1,2019-08-31
+490,29,48097.82753145467,5,PhD,Finance,South America,0,2020-10-31
+491,18,61239.536260962544,2,High School,Finance,Australia,0,2021-05-31
+492,18,39240.68075065883,3,High School,Education,Asia,1,2021-05-31
+493,64,74854.82704557163,2,High School,Education,South America,1,2019-11-30
+494,51,26893.719921664455,5,Bachelor,Finance,Asia,1,2021-02-28
+495,49,29216.22370275967,3,High School,Healthcare,Europe,0,2021-08-31
+496,65,71664.67375568517,3,PhD,Technology,South America,0,2023-07-31
+497,42,10852.37310525649,6,High School,Education,Asia,0,2023-02-28
+498,57,55678.53302142374,6,Bachelor,Healthcare,Europe,0,2018-12-31
+499,62,48390.11006605135,6,Master,Education,Australia,1,2020-06-30
+500,18,38960.72121199955,5,High School,Finance,South America,0,2023-05-31
+501,33,47000.90227114447,4,High School,Healthcare,Australia,1,2021-05-31
+502,56,37287.14760365285,2,Bachelor,Entertainment,Europe,0,2019-08-31
+503,22,73133.83919072749,6,High School,Technology,Australia,0,2018-06-30
+504,39,77067.45632542414,5,High School,Technology,Australia,0,2018-04-30
+505,46,39713.93619817483,4,High School,Education,North America,1,2018-10-31
+506,20,54132.87316202797,4,Bachelor,Technology,Europe,0,2022-03-31
+507,29,30123.85293595929,4,PhD,Entertainment,Australia,0,2021-02-28
+508,43,66095.7823850469,7,Master,Healthcare,Asia,0,2018-01-31
+509,33,65705.13761964971,4,High School,Healthcare,Europe,0,2018-08-31
+510,68,45571.066509384655,5,Bachelor,Finance,North America,0,2023-03-31
+511,54,50253.27587629843,4,Bachelor,Healthcare,South America,1,2020-09-30
+512,39,48593.518257159936,3,PhD,Education,Australia,0,2019-03-31
+513,46,25723.132494795864,6,High School,Entertainment,Asia,0,2020-07-31
+514,31,73190.0622140019,7,Bachelor,Finance,North America,0,2019-09-30
+515,45,38495.701416763535,8,Master,Education,Europe,0,2018-03-31
+516,22,38597.760916131185,3,PhD,Education,Australia,0,2023-06-30
+517,64,47743.702183072506,3,High School,Education,North America,0,2020-11-30
+518,66,64933.228780434176,6,High School,Technology,North America,0,2021-05-31
+519,47,41130.45177361954,3,High School,Education,Asia,0,2022-11-30
+520,63,20717.221678948335,3,High School,Technology,South America,0,2019-04-30
+521,69,36695.02908905699,3,Bachelor,Healthcare,South America,0,2022-08-31
+522,22,56362.106286184855,4,Bachelor,Technology,South America,0,2021-09-30
+523,29,82846.25431713779,4,Bachelor,Education,Europe,0,2022-11-30
+524,33,31101.200504402663,1,High School,Entertainment,North America,0,2022-02-28
+525,43,30552.473487787563,5,High School,Entertainment,Europe,0,2018-12-31
+526,43,27311.06748741776,10,High School,Healthcare,North America,0,2018-12-31
+527,65,25449.125130509885,4,High School,Education,Asia,0,2020-09-30
+528,38,68085.37190122146,9,Master,Technology,Asia,0,2022-01-31
+529,56,72420.3286304657,2,High School,Entertainment,Europe,0,2019-09-30
+530,53,52666.33840370604,5,High School,Finance,Europe,0,2022-12-31
+531,50,42984.30841788715,9,Bachelor,Education,Asia,0,2022-04-30
+532,47,76867.1568029394,8,Bachelor,Education,Australia,0,2022-06-30
+533,54,52608.62062484757,2,Bachelor,Finance,South America,0,2021-03-31
+534,40,66341.55064040651,3,Master,Entertainment,South America,0,2022-01-31
+535,27,42253.265874172765,3,High School,Finance,Asia,0,2023-04-30
+536,22,50663.65781335661,4,Master,Healthcare,South America,1,2020-02-29
+537,53,31439.875318294307,2,Bachelor,Technology,Australia,0,2023-11-30
+538,51,59438.734578403775,6,Bachelor,Technology,Australia,0,2018-07-31
+539,69,52864.066261599735,2,PhD,Entertainment,North America,0,2023-12-31
+540,48,36581.55151379324,6,High School,Finance,Europe,0,2023-02-28
+541,27,36783.39275710308,5,Bachelor,Education,South America,0,2019-12-31
+542,36,74239.37755008115,6,High School,Education,Australia,0,2021-04-30
+543,49,79575.03125692725,4,Bachelor,Education,Europe,1,2021-11-30
+544,18,46802.96994999018,3,Master,Healthcare,Europe,0,2018-08-31
+545,22,51016.30359143244,3,Master,Healthcare,North America,0,2022-06-30
+546,62,56001.71711972325,2,Master,Education,Europe,0,2018-09-30
+547,21,52220.47637239531,7,Bachelor,Entertainment,Europe,0,2018-03-31
+548,33,24885.534191920546,3,High School,Healthcare,Asia,0,2022-06-30
+549,41,56418.06015785579,7,Bachelor,Healthcare,North America,0,2019-09-30
+550,33,18681.66448099087,3,Master,Technology,North America,0,2021-12-31
+551,19,39009.73713113571,4,High School,Technology,South America,0,2021-11-30
+552,66,57581.40719937227,4,Bachelor,Entertainment,Europe,1,2023-08-31
+553,45,58999.91311887256,6,Master,Healthcare,South America,0,2023-03-31
+554,49,37848.903736857654,4,Bachelor,Healthcare,Australia,1,2019-04-30
+555,44,43123.44589719624,2,Bachelor,Finance,Europe,0,2018-05-31
+556,37,41092.45236502319,5,Master,Entertainment,Australia,0,2018-11-30
+557,41,48457.33755295895,5,High School,Entertainment,Asia,1,2020-05-31
+558,29,49598.08480046505,4,High School,Finance,Europe,0,2023-10-31
+559,67,60027.021942936655,6,Bachelor,Finance,South America,0,2021-12-31
+560,52,42246.547056653246,5,Bachelor,Technology,South America,1,2019-03-31
+561,50,55600.942878703325,2,Master,Entertainment,Europe,0,2020-10-31
+562,50,57605.23646730787,4,High School,Entertainment,South America,0,2022-12-31
+563,68,52974.34066057798,4,High School,Finance,Europe,0,2023-02-28
+564,60,46105.912663257885,6,High School,Education,North America,1,2018-02-28
+565,54,52709.6819641316,6,PhD,Education,South America,0,2019-07-31
+566,29,61276.10410090364,6,Bachelor,Technology,Europe,0,2022-01-31
+567,20,62587.77301574468,5,Bachelor,Education,Europe,0,2020-04-30
+568,18,77230.59027240358,6,High School,Education,South America,0,2021-12-31
+569,50,35149.60645540607,4,High School,Education,North America,0,2021-01-31
+570,57,43399.88913506896,8,Bachelor,Healthcare,South America,0,2022-01-31
+571,27,25797.970095973968,6,High School,Technology,Europe,0,2021-12-31
+572,60,63965.14196491783,2,Bachelor,Finance,North America,0,2020-05-31
+573,61,44982.3874046488,5,Bachelor,Education,Australia,0,2022-12-31
+574,46,53092.8647304399,5,Master,Healthcare,Asia,1,2020-05-31
+575,30,40934.92145830041,9,Bachelor,Education,South America,1,2022-10-31
+576,29,45099.44007533262,7,Bachelor,Healthcare,Europe,0,2021-12-31
+577,48,68347.85158139988,3,High School,Technology,North America,1,2019-11-30
+578,63,60413.50115728975,9,Master,Education,North America,0,2020-03-31
+579,19,48327.169135115815,6,Master,Healthcare,Australia,0,2018-07-31
+580,68,61517.20879214595,3,High School,Entertainment,South America,0,2022-01-31
+581,67,61848.50120056811,8,PhD,Entertainment,North America,0,2022-06-30
+582,52,44128.617249698975,4,High School,Healthcare,Australia,1,2023-08-31
+583,40,27963.806590456876,7,High School,Education,Europe,0,2021-06-30
+584,34,36512.575594969414,10,High School,Education,Australia,0,2022-11-30
+585,43,29892.070949262245,6,PhD,Technology,South America,0,2021-08-31
+586,25,67466.51968989361,6,Bachelor,Technology,Australia,0,2020-02-29
+587,46,70071.72824671521,3,Master,Finance,North America,0,2019-11-30
+588,43,73795.60820238525,4,High School,Technology,North America,0,2018-08-31
+589,27,19706.66676534247,2,Bachelor,Education,Asia,0,2022-05-31
+590,43,66071.01365560581,6,Bachelor,Finance,Australia,0,2019-02-28
+591,51,83182.86964077028,6,Master,Technology,Europe,0,2023-11-30
+592,68,66679.81570715967,5,High School,Healthcare,South America,0,2018-07-31
+593,58,17731.555731939956,5,High School,Entertainment,Asia,0,2018-09-30
+594,24,76524.47462595158,5,High School,Technology,Australia,0,2018-03-31
+595,21,50625.335556979124,5,Master,Technology,Europe,0,2019-05-31
+596,67,46514.01340249293,5,Bachelor,Healthcare,Asia,0,2021-08-31
+597,62,56766.429448744675,2,Bachelor,Education,North America,0,2021-10-31
+598,28,34264.8961614427,3,Bachelor,Healthcare,South America,1,2022-10-31
+599,46,50041.735563823684,1,PhD,Technology,Australia,0,2020-04-30
+600,53,74306.4446765611,3,Master,Education,Europe,0,2019-02-28
+601,42,59335.95305784932,3,Master,Finance,North America,1,2018-09-30
+602,38,50876.022081540024,5,High School,Technology,Asia,1,2020-02-29
+603,53,51344.12239891413,6,High School,Healthcare,South America,0,2018-02-28
+604,27,32279.09025051798,5,PhD,Finance,Asia,0,2020-10-31
+605,54,47750.18162900412,4,Bachelor,Entertainment,Asia,0,2019-07-31
+606,26,25485.569965553488,5,High School,Finance,Europe,0,2021-03-31
+607,41,65336.614285907155,6,Bachelor,Healthcare,North America,0,2019-01-31
+608,52,17214.342762869863,3,PhD,Finance,Australia,1,2018-05-31
+609,66,62823.50569431065,1,Bachelor,Healthcare,Europe,0,2022-02-28
+610,52,64691.163512510924,3,Bachelor,Technology,South America,0,2019-11-30
+611,65,69781.46923590792,5,Master,Education,Asia,0,2020-05-31
+612,53,51302.88744742704,5,Bachelor,Entertainment,South America,0,2023-12-31
+613,35,63749.42699236293,4,High School,Education,Europe,0,2020-02-29
+614,66,47603.80039452176,3,PhD,Education,Europe,1,2022-09-30
+615,56,32199.543234680998,5,PhD,Education,Australia,1,2018-01-31
+616,49,72960.98588806993,4,Master,Healthcare,Asia,1,2020-04-30
+617,41,48546.71255577388,5,Bachelor,Healthcare,Europe,0,2023-02-28
+618,40,28857.330237902086,9,High School,Entertainment,South America,0,2021-11-30
+619,49,42997.77581315327,3,PhD,Healthcare,Australia,0,2022-11-30
+620,54,43590.12976147743,6,High School,Healthcare,South America,0,2020-07-31
+621,29,56925.453771863184,3,Master,Healthcare,Asia,1,2023-10-31
+622,66,85205.71225059096,8,PhD,Healthcare,Australia,0,2022-01-31
+623,30,57836.279199238474,5,Bachelor,Technology,Australia,1,2018-05-31
+624,40,53102.65777994788,5,Master,Entertainment,Australia,0,2020-07-31
+625,42,86836.64299343832,3,Master,Healthcare,North America,0,2021-01-31
+626,52,64683.403098690884,5,High School,Entertainment,Australia,0,2019-03-31
+627,58,53813.73806202393,2,Bachelor,Finance,South America,0,2022-04-30
+628,47,42808.822117728574,4,High School,Technology,South America,1,2023-09-30
+629,34,54743.00114306841,8,Bachelor,Healthcare,Asia,0,2018-11-30
+630,66,49004.14393860295,4,High School,Technology,Europe,1,2021-07-31
+631,37,51371.511913384944,6,Bachelor,Technology,Europe,0,2023-10-31
+632,65,69716.03637154208,8,Master,Finance,North America,0,2019-11-30
+633,42,41895.16725293768,2,PhD,Entertainment,Australia,1,2021-04-30
+634,39,57703.1106224527,3,Bachelor,Technology,North America,0,2023-03-31
+635,30,64234.099847563906,7,Bachelor,Education,Asia,0,2018-02-28
+636,36,40068.31224763386,4,Bachelor,Finance,Asia,1,2021-11-30
+637,66,37660.678767663485,8,PhD,Education,Europe,1,2020-06-30
+638,53,47744.87116128645,4,Bachelor,Finance,Asia,0,2019-04-30
+639,29,43075.55614615309,4,Bachelor,Education,Australia,0,2022-11-30
+640,58,67284.98913112257,4,PhD,Education,South America,0,2021-11-30
+641,36,34973.475821530184,6,Bachelor,Technology,Asia,0,2020-06-30
+642,29,51027.07052793005,7,PhD,Technology,North America,0,2018-09-30
+643,26,88190.72500106713,2,PhD,Finance,Australia,1,2023-05-31
+644,24,56195.84800679274,5,PhD,Entertainment,Asia,0,2022-11-30
+645,45,58689.352164573276,5,High School,Technology,Asia,0,2023-04-30
+646,31,67410.23743545687,5,Bachelor,Technology,Australia,0,2018-08-31
+647,48,43055.76401861961,4,Master,Healthcare,Asia,0,2022-04-30
+648,69,33778.70556881894,6,Bachelor,Technology,South America,0,2019-06-30
+649,36,52647.66914244117,4,Bachelor,Entertainment,Europe,0,2022-10-31
+650,64,53981.05742522806,5,High School,Healthcare,Australia,1,2022-01-31
+651,33,25726.838079302583,4,High School,Education,North America,0,2020-08-31
+652,22,55626.07872024167,3,Bachelor,Education,Asia,0,2021-12-31
+653,52,66047.75748051559,3,Bachelor,Healthcare,Europe,1,2021-09-30
+654,29,36305.77890463986,4,Bachelor,Healthcare,North America,0,2022-06-30
+655,42,56533.3377256222,3,Bachelor,Healthcare,North America,0,2021-10-31
+656,69,63383.95490555201,7,Bachelor,Finance,South America,0,2020-07-31
+657,38,58800.1731279512,7,Bachelor,Entertainment,Europe,0,2021-01-31
+658,53,60215.09358112336,6,Bachelor,Entertainment,Australia,0,2019-04-30
+659,40,46327.99637290548,5,Bachelor,Education,Europe,0,2021-10-31
+660,33,33087.43493389106,4,Bachelor,Education,Europe,1,2021-10-31
+661,56,43292.80306424131,4,High School,Education,North America,1,2023-01-31
+662,62,41209.143471940624,7,Bachelor,Technology,South America,0,2021-10-31
+663,59,48796.11430688681,6,Bachelor,Education,South America,0,2022-03-31
+664,56,66399.06358189895,3,Bachelor,Healthcare,Europe,0,2023-02-28
+665,31,30322.39807753747,4,Bachelor,Education,Europe,0,2020-11-30
+666,48,52163.750342260864,4,Master,Healthcare,Asia,0,2021-06-30
+667,22,34048.97531723221,4,High School,Finance,North America,0,2021-09-30
+668,52,38899.29623265843,7,PhD,Technology,Australia,0,2023-08-31
+669,40,58381.11128917763,6,High School,Technology,Australia,0,2021-11-30
+670,46,32150.82419951451,7,PhD,Entertainment,South America,0,2020-06-30
+671,60,61013.664345544676,3,Bachelor,Finance,North America,1,2019-12-31
+672,28,29717.533300629126,5,Bachelor,Healthcare,South America,1,2023-06-30
+673,35,60004.7060515724,5,High School,Finance,Australia,0,2021-07-31
+674,64,26757.03095632232,4,High School,Technology,Europe,1,2020-10-31
+675,29,40732.809811150764,5,High School,Healthcare,North America,1,2019-11-30
+676,26,78447.41574694341,2,High School,Finance,North America,0,2023-01-31
+677,27,75628.1955465033,6,Bachelor,Technology,Asia,0,2021-01-31
+678,61,43812.13021224282,2,Bachelor,Healthcare,Europe,0,2019-01-31
+679,34,55849.40879044852,3,Master,Healthcare,Europe,1,2023-11-30
+680,55,68061.02028327326,3,High School,Technology,South America,0,2018-07-31
+681,24,60219.44261630707,5,PhD,Healthcare,North America,0,2021-06-30
+682,63,45898.036303177636,0,Bachelor,Technology,South America,0,2021-02-28
+683,30,38770.470289455,9,High School,Education,Europe,0,2022-04-30
+684,57,63021.547144368946,4,Bachelor,Education,Asia,0,2021-08-31
+685,59,66960.54962921752,2,High School,Healthcare,North America,1,2023-04-30
+686,26,75735.52751591582,5,High School,Healthcare,Europe,0,2019-01-31
+687,67,24691.258648203933,3,Bachelor,Technology,Asia,1,2020-04-30
+688,44,31203.128176984213,2,Bachelor,Healthcare,Australia,1,2018-01-31
+689,19,67428.8540322062,5,PhD,Entertainment,Europe,0,2021-07-31
+690,22,26727.04179874735,5,Bachelor,Education,Australia,0,2021-06-30
+691,46,68578.24932367899,3,PhD,Healthcare,South America,1,2022-02-28
+692,54,46776.01241021912,4,PhD,Healthcare,Australia,1,2022-12-31
+693,55,42186.29270994973,2,Master,Finance,Europe,0,2018-01-31
+694,36,53081.42894407204,9,Bachelor,Healthcare,Australia,0,2022-03-31
+695,25,29819.47321646752,13,High School,Entertainment,North America,0,2019-04-30
+696,65,62360.22245897527,4,High School,Education,Europe,1,2021-03-31
+697,62,75344.55496542045,3,Bachelor,Finance,Asia,1,2019-03-31
+698,18,63058.64323721362,9,Bachelor,Technology,Australia,0,2020-09-30
+699,39,46302.369611687885,2,High School,Technology,North America,1,2022-05-31
+700,69,26929.464383518385,4,Bachelor,Education,South America,0,2019-05-31
+701,34,27506.188156956006,7,High School,Technology,South America,0,2018-06-30
+702,24,30055.350466410386,3,Master,Entertainment,Australia,0,2020-07-31
+703,42,49815.82584331524,4,High School,Healthcare,South America,0,2023-09-30
+704,62,51701.000949089066,7,Bachelor,Education,Asia,0,2021-04-30
+705,21,63026.65266111493,3,Master,Finance,Europe,0,2020-06-30
+706,53,23059.565202753867,8,High School,Healthcare,North America,0,2023-09-30
+707,23,69668.153455886,6,Bachelor,Technology,Australia,0,2018-07-31
+708,48,60416.09478418057,6,Master,Technology,South America,0,2019-01-31
+709,36,45097.455604067974,8,High School,Finance,Europe,0,2018-04-30
+710,61,32153.576874018498,3,High School,Entertainment,Asia,0,2022-02-28
+711,56,68737.10962536678,6,Bachelor,Finance,South America,0,2018-03-31
+712,44,45498.59058143924,5,Bachelor,Education,South America,1,2018-12-31
+713,27,49699.71650983357,8,Bachelor,Finance,North America,0,2023-05-31
+714,43,55754.17956181898,10,High School,Technology,Asia,0,2020-03-31
+715,36,36302.01641327583,2,Bachelor,Entertainment,Asia,0,2022-02-28
+716,56,45767.29131462127,4,High School,Entertainment,Australia,1,2019-05-31
+717,20,62979.7535303057,6,Master,Finance,North America,1,2023-12-31
+718,62,61461.441177444125,4,Bachelor,Education,Australia,0,2020-08-31
+719,30,61596.608100428566,6,Master,Technology,North America,1,2022-03-31
+720,67,32672.303732893524,4,Bachelor,Healthcare,Asia,1,2019-05-31
+721,45,46451.29473906288,7,Master,Entertainment,North America,0,2020-10-31
+722,37,44054.09247428292,5,Bachelor,Finance,North America,0,2020-11-30
+723,45,56377.68263412052,1,Bachelor,Education,North America,0,2019-12-31
+724,25,55034.86984473347,4,Bachelor,Education,Europe,0,2022-06-30
+725,58,52331.40996114405,12,Master,Technology,Europe,0,2019-06-30
+726,56,86986.00933129893,10,Bachelor,Entertainment,Asia,0,2022-02-28
+727,18,45637.90879783944,4,Bachelor,Technology,North America,0,2021-10-31
+728,20,43882.65370897183,3,Bachelor,Healthcare,Asia,0,2021-12-31
+729,30,32648.75494495916,6,Master,Healthcare,Europe,0,2020-09-30
+730,45,26932.29011106694,6,Bachelor,Healthcare,North America,0,2020-03-31
+731,66,31695.23934176337,5,Bachelor,Education,Australia,0,2018-01-31
+732,42,39219.77111835081,2,Bachelor,Entertainment,Europe,1,2022-11-30
+733,50,69651.09641656779,9,Bachelor,Technology,Europe,0,2018-10-31
+734,55,50587.458565427885,6,PhD,Technology,Europe,0,2020-01-31
+735,23,52899.960004291,4,Master,Healthcare,North America,0,2022-09-30
+736,61,48555.90037696855,6,Bachelor,Entertainment,South America,0,2023-06-30
+737,62,55479.51489532683,8,Bachelor,Entertainment,Australia,0,2019-03-31
+738,49,71031.08220826765,2,Master,Finance,Australia,1,2020-04-30
+739,62,20091.03745597946,2,Bachelor,Entertainment,Asia,0,2019-01-31
+740,64,68275.05973378071,6,PhD,Entertainment,North America,0,2019-02-28
+741,38,12274.4232119749,6,High School,Technology,Europe,0,2023-06-30
+742,33,50423.040672828916,4,High School,Entertainment,South America,0,2020-10-31
+743,38,82878.61032116623,9,High School,Entertainment,North America,0,2020-01-31
+744,28,60209.86909297316,3,Bachelor,Technology,North America,0,2022-06-30
+745,54,55595.884029809546,5,PhD,Entertainment,South America,0,2018-12-31
+746,53,80029.1895020446,8,High School,Technology,Europe,0,2018-09-30
+747,52,39454.056529982845,5,Master,Finance,North America,0,2020-07-31
+748,36,56509.51133697572,5,Bachelor,Education,Australia,0,2022-05-31
+749,37,58671.756462108395,7,Master,Technology,Australia,0,2021-07-31
+750,35,42163.96798659462,4,Bachelor,Technology,South America,0,2021-02-28
+751,64,43488.347307560296,6,Master,Entertainment,Europe,0,2021-06-30
+752,58,41843.3085016499,5,High School,Technology,South America,0,2023-12-31
+753,66,51309.724610128455,6,Master,Healthcare,North America,0,2021-12-31
+754,31,58200.3740865697,5,High School,Healthcare,Australia,0,2023-07-31
+755,32,51848.454093719934,5,Bachelor,Finance,Asia,0,2023-06-30
+756,48,60641.92726144783,4,Master,Technology,South America,0,2019-04-30
+757,18,20462.79071039679,4,High School,Entertainment,Asia,0,2019-04-30
+758,20,46726.23254385745,5,High School,Entertainment,Asia,1,2020-07-31
+759,33,34648.710344740306,3,Bachelor,Education,Australia,0,2022-10-31
+760,40,54525.837690243476,5,Bachelor,Finance,South America,0,2020-04-30
+761,28,54303.76143008485,7,Bachelor,Entertainment,Asia,1,2018-04-30
+762,29,48265.66827563817,3,High School,Education,North America,0,2018-10-31
+763,27,57654.18515798107,0,High School,Entertainment,Europe,0,2022-03-31
+764,49,64967.190773960414,5,Bachelor,Education,Europe,1,2019-06-30
+765,33,49092.19216540537,4,High School,Healthcare,Australia,0,2021-11-30
+766,25,34224.57667850447,1,PhD,Healthcare,South America,0,2020-08-31
+767,55,26281.136436207787,5,High School,Entertainment,South America,0,2020-06-30
+768,29,50541.652629951925,5,Bachelor,Finance,Europe,0,2020-12-31
+769,41,53628.000522703114,3,High School,Technology,North America,0,2018-09-30
+770,45,35457.141657200315,1,High School,Finance,Europe,0,2020-12-31
+771,25,60886.502347445494,5,Bachelor,Finance,Europe,1,2020-05-31
+772,45,43115.646712631395,11,Bachelor,Technology,South America,0,2019-04-30
+773,53,25153.507022432743,5,High School,Healthcare,Asia,0,2019-09-30
+774,43,68846.54513517785,5,High School,Healthcare,North America,0,2023-04-30
+775,25,67159.81878803245,7,High School,Technology,South America,0,2023-06-30
+776,67,19766.00845005353,4,Master,Education,Europe,0,2022-11-30
+777,45,41560.99577519461,1,Bachelor,Finance,Asia,0,2020-04-30
+778,45,40976.244778785855,5,High School,Entertainment,North America,0,2022-07-31
+779,54,74592.32989126255,7,Bachelor,Healthcare,Australia,0,2020-07-31
+780,58,48510.609349375154,3,Master,Entertainment,North America,0,2020-09-30
+781,53,27561.827029168737,3,Master,Technology,North America,1,2022-12-31
+782,44,63231.57173361318,9,PhD,Entertainment,Europe,0,2021-05-31
+783,34,31538.366813508786,1,Bachelor,Entertainment,Europe,0,2021-10-31
+784,26,46094.89263917358,6,High School,Finance,Australia,0,2022-01-31
+785,50,38453.46683178685,6,High School,Technology,Australia,0,2023-05-31
+786,37,41593.1735258009,5,Master,Entertainment,Australia,1,2021-06-30
+787,30,64058.87134345909,4,PhD,Healthcare,South America,1,2019-11-30
+788,45,72819.95241998248,7,Bachelor,Technology,South America,0,2020-03-31
+789,65,30884.468804309323,7,Bachelor,Healthcare,Europe,1,2020-08-31
+790,46,59391.146382617255,6,Bachelor,Education,Europe,0,2018-03-31
+791,30,39008.69555465006,5,Bachelor,Entertainment,Australia,0,2022-12-31
+792,63,39474.92134963887,3,High School,Technology,South America,0,2019-05-31
+793,52,57359.54332134072,5,Bachelor,Healthcare,Asia,0,2020-08-31
+794,23,34581.45851429457,3,High School,Entertainment,South America,0,2018-07-31
+795,35,57059.039011625675,1,High School,Finance,Europe,0,2023-11-30
+796,68,60951.70034764602,2,Bachelor,Healthcare,South America,0,2023-09-30
+797,22,43512.01607451472,6,High School,Healthcare,Europe,0,2022-10-31
+798,64,69906.171530205,4,High School,Education,Australia,1,2021-04-30
+799,42,30907.630819077396,9,High School,Finance,Australia,0,2021-12-31
+800,19,70181.09285917509,4,Master,Education,Australia,0,2022-03-31
+801,27,20840.188557723006,6,Master,Finance,Asia,0,2022-09-30
+802,47,90495.71210629265,8,High School,Healthcare,Asia,0,2023-11-30
+803,67,43906.966420672514,5,Bachelor,Education,Europe,0,2021-01-31
+804,62,32565.392654185733,3,High School,Entertainment,North America,0,2022-07-31
+805,22,46509.92137220002,4,Bachelor,Finance,Asia,0,2021-05-31
+806,50,34302.83086063358,3,Master,Healthcare,Europe,0,2019-08-31
+807,18,55804.47948281813,6,Master,Technology,South America,0,2020-09-30
+808,35,70514.8599720522,6,Bachelor,Finance,Australia,0,2021-04-30
+809,49,35098.15660914984,9,PhD,Finance,Australia,0,2020-10-31
+810,64,58690.98858761005,5,PhD,Entertainment,Australia,1,2023-02-28
+811,66,27008.96946656361,5,Master,Finance,Europe,1,2019-07-31
+812,28,65494.32099842919,3,Bachelor,Finance,Australia,0,2021-07-31
+813,38,56243.545503913934,8,Bachelor,Entertainment,Asia,0,2023-09-30
+814,43,66142.7498199548,6,Bachelor,Entertainment,South America,0,2023-03-31
+815,42,48164.79646038342,5,High School,Education,Australia,0,2018-10-31
+816,39,43472.65103217872,1,High School,Healthcare,Europe,0,2019-01-31
+817,44,62241.761540859996,3,Master,Healthcare,South America,0,2018-05-31
+818,66,30379.272176623723,2,Bachelor,Education,Australia,1,2022-10-31
+819,30,23857.635023996372,7,PhD,Healthcare,North America,0,2022-11-30
+820,50,49925.57023939943,2,High School,Finance,Australia,1,2022-11-30
+821,51,44156.05089711811,2,High School,Education,Asia,0,2019-03-31
+822,58,58307.49997672319,8,Master,Education,South America,0,2018-01-31
+823,52,66373.27136470996,3,Bachelor,Healthcare,Asia,0,2021-02-28
+824,18,57995.21118726709,6,High School,Technology,North America,0,2022-05-31
+825,38,65178.54967740118,6,PhD,Healthcare,North America,0,2022-04-30
+826,65,54815.78499998246,2,Master,Technology,Asia,0,2018-01-31
+827,23,57418.936224816476,5,Bachelor,Education,South America,0,2018-11-30
+828,45,48250.14185251594,2,Master,Technology,North America,0,2022-10-31
+829,34,56975.68191522773,2,Bachelor,Finance,North America,0,2021-04-30
+830,22,52499.7924284527,5,Master,Entertainment,Australia,1,2022-12-31
+831,48,54877.651947935956,4,Master,Technology,Europe,0,2021-08-31
+832,22,47499.13950369741,3,High School,Entertainment,North America,0,2018-06-30
+833,55,62133.938007069475,5,Bachelor,Finance,South America,0,2020-04-30
+834,20,39343.21175247573,8,High School,Entertainment,South America,0,2020-07-31
+835,40,49724.7646864384,7,High School,Finance,Australia,0,2018-08-31
+836,54,69676.75850311364,5,PhD,Entertainment,South America,0,2018-05-31
+837,54,35769.17265618312,6,Bachelor,Entertainment,Australia,0,2022-06-30
+838,27,17572.31807371054,3,Master,Healthcare,North America,0,2019-05-31
+839,27,55496.85749446958,5,Master,Technology,North America,0,2021-02-28
+840,36,46145.68264469751,8,PhD,Entertainment,North America,1,2018-09-30
+841,34,65162.93360557759,5,Master,Education,North America,1,2019-02-28
+842,38,48042.273801545096,6,Bachelor,Healthcare,Europe,0,2020-02-29
+843,31,40934.913926550325,5,Bachelor,Technology,Europe,0,2023-02-28
+844,26,48862.7390627268,5,High School,Healthcare,North America,0,2020-01-31
+845,63,66396.02879919816,7,Bachelor,Technology,South America,0,2020-12-31
+846,18,58630.54440788563,5,Bachelor,Finance,Australia,1,2020-09-30
+847,68,13491.466151779481,4,Bachelor,Entertainment,Asia,0,2018-03-31
+848,62,52786.51238130157,7,Bachelor,Education,Australia,0,2018-11-30
+849,30,53536.431986021074,6,PhD,Healthcare,Asia,0,2022-10-31
+850,21,49726.25052199221,9,Master,Healthcare,Asia,0,2023-04-30
+851,18,40836.65162647116,4,Bachelor,Healthcare,North America,0,2019-06-30
+852,66,67917.97811759666,1,Bachelor,Healthcare,Asia,0,2021-11-30
+853,57,68660.50922202293,8,High School,Entertainment,North America,0,2021-08-31
+854,49,16952.59308761207,5,High School,Technology,Europe,0,2022-11-30
+855,51,38030.60783387833,6,Master,Entertainment,South America,1,2022-02-28
+856,45,47829.0402307142,5,High School,Finance,Asia,0,2023-09-30
+857,48,64227.623055750046,6,Master,Entertainment,South America,0,2020-05-31
+858,25,50522.793145876494,8,Bachelor,Entertainment,North America,0,2023-07-31
+859,56,39746.09299752615,2,High School,Finance,Asia,1,2018-02-28
+860,43,60643.00365961062,4,High School,Entertainment,Australia,0,2020-01-31
+861,51,46829.95871673511,1,Bachelor,Technology,Europe,0,2019-07-31
+862,20,48238.987112675604,6,Bachelor,Education,Europe,0,2021-04-30
+863,67,49592.623498938854,8,Master,Finance,Asia,0,2018-02-28
+864,29,58614.62661257726,7,Master,Healthcare,Europe,0,2023-05-31
+865,18,45371.75597489319,6,Bachelor,Technology,Australia,0,2023-02-28
+866,61,60304.19738970833,4,Master,Education,South America,0,2022-06-30
+867,22,48903.965473893906,3,Bachelor,Technology,Australia,0,2021-09-30
+868,47,33994.75120373186,6,PhD,Technology,Europe,1,2022-01-31
+869,47,49448.35541456828,6,High School,Healthcare,South America,0,2023-09-30
+870,34,34771.79895282177,3,Master,Education,Australia,0,2021-02-28
+871,65,50614.80184663913,1,Bachelor,Technology,North America,0,2018-04-30
+872,64,62442.108938471996,8,High School,Healthcare,North America,0,2019-05-31
+873,40,33895.56490996828,2,High School,Finance,South America,0,2022-05-31
+874,32,55464.10108706658,5,Bachelor,Healthcare,South America,1,2022-05-31
+875,54,37564.43812470188,4,High School,Entertainment,South America,1,2020-07-31
+876,38,53025.50839874821,6,High School,Healthcare,North America,0,2019-10-31
+877,31,62903.06363030726,4,PhD,Healthcare,Australia,0,2018-11-30
+878,19,18057.30388834938,5,Master,Healthcare,South America,0,2020-10-31
+879,28,33282.862596929815,5,Master,Technology,North America,0,2019-03-31
+880,68,44465.30832335117,6,Master,Education,South America,0,2018-10-31
+881,56,54725.60733772423,3,PhD,Healthcare,South America,0,2022-05-31
+882,55,47504.25005962514,5,Bachelor,Healthcare,South America,1,2021-12-31
+883,51,49311.78827028622,5,High School,Entertainment,North America,1,2020-07-31
+884,55,80644.76788026885,4,Master,Entertainment,Australia,0,2021-01-31
+885,67,31813.140817261585,4,Master,Finance,North America,0,2020-04-30
+886,51,67032.27524544156,4,Bachelor,Finance,North America,0,2020-07-31
+887,35,44750.32809268375,4,Bachelor,Entertainment,South America,1,2023-10-31
+888,47,58242.121887481015,6,Bachelor,Education,Asia,0,2019-02-28
+889,32,81934.198336184,6,PhD,Finance,Asia,0,2019-04-30
+890,44,60330.170355281385,6,Bachelor,Education,Asia,0,2020-01-31
+891,68,55587.43564685,7,PhD,Entertainment,North America,0,2021-03-31
+892,51,73986.83502724062,5,PhD,Finance,South America,1,2023-06-30
+893,69,66871.97966889787,8,Bachelor,Healthcare,Asia,0,2021-02-28
+894,55,38009.08885757846,4,Bachelor,Entertainment,Europe,1,2021-05-31
+895,50,54417.87113680784,5,Bachelor,Finance,Europe,0,2021-04-30
+896,41,24237.563987888607,1,High School,Education,Europe,0,2023-04-30
+897,32,41897.69917438623,7,High School,Education,Australia,0,2019-04-30
+898,47,54710.79451399789,5,Master,Finance,South America,1,2022-11-30
+899,59,40968.419708281115,9,Bachelor,Education,North America,0,2018-11-30
+900,68,54100.50118957887,5,High School,Finance,North America,0,2018-01-31
+901,34,49799.23076520442,8,High School,Finance,South America,0,2019-01-31
+902,22,58046.25098592564,9,PhD,Education,Australia,0,2020-06-30
+903,46,43637.01466957833,5,Bachelor,Technology,South America,1,2023-09-30
+904,21,35897.7662834493,9,PhD,Healthcare,Australia,0,2019-06-30
+905,27,72171.90239259892,5,Bachelor,Entertainment,Asia,1,2019-01-31
+906,34,42564.54885965083,6,Bachelor,Healthcare,Asia,1,2020-08-31
+907,27,59900.15889675677,3,High School,Entertainment,Australia,0,2023-11-30
+908,34,71528.70539708804,5,Bachelor,Entertainment,South America,1,2023-12-31
+909,37,52440.04998496298,5,Bachelor,Healthcare,Asia,0,2022-02-28
+910,41,37155.40145835276,8,High School,Finance,South America,0,2023-11-30
+911,22,47320.85038178983,7,Bachelor,Education,Asia,0,2020-07-31
+912,51,65263.11374910129,8,Bachelor,Technology,South America,0,2022-03-31
+913,23,53093.713186067944,12,Bachelor,Technology,South America,0,2020-03-31
+914,19,31922.873116935847,2,Master,Technology,Europe,1,2022-12-31
+915,30,58949.657503005685,6,Bachelor,Healthcare,Australia,0,2020-09-30
+916,60,61542.97203576498,4,Bachelor,Healthcare,North America,0,2022-05-31
+917,60,44670.32170823099,7,PhD,Finance,Australia,1,2023-12-31
+918,65,59153.66563407119,4,Master,Technology,South America,0,2020-09-30
+919,28,53675.27893190701,4,PhD,Finance,South America,0,2021-05-31
+920,68,47038.55692036941,3,Bachelor,Technology,Australia,0,2019-07-31
+921,64,30596.963846095045,6,Master,Healthcare,South America,0,2021-05-31
+922,40,66169.30842658636,6,Bachelor,Education,Asia,0,2021-06-30
+923,33,61388.164998797496,4,High School,Education,South America,1,2019-11-30
+924,48,58758.29441562969,7,Master,Education,Australia,0,2020-09-30
+925,28,73167.8900551714,6,Bachelor,Education,Australia,0,2019-08-31
+926,33,64177.90590520391,6,High School,Entertainment,Australia,0,2020-01-31
+927,25,60298.49009227344,6,High School,Technology,Europe,0,2022-04-30
+928,21,16801.589779597532,2,Master,Education,Europe,0,2018-12-31
+929,57,67953.42427703623,4,High School,Entertainment,Europe,1,2020-08-31
+930,21,51246.20771423076,2,High School,Entertainment,Europe,0,2020-09-30
+931,42,54687.37520385708,4,Bachelor,Entertainment,Europe,0,2023-08-31
+932,20,54789.99784540079,4,High School,Finance,Europe,0,2019-03-31
+933,49,61607.49115463419,3,PhD,Finance,Europe,0,2022-03-31
+934,20,66832.62543202528,5,Bachelor,Entertainment,Australia,0,2018-06-30
+935,44,59513.61714588833,6,Bachelor,Education,North America,0,2023-09-30
+936,46,57129.28383979837,4,PhD,Technology,Europe,0,2023-09-30
+937,49,53472.691089433574,4,Bachelor,Healthcare,Australia,1,2020-11-30
+938,67,-274.15775357017264,2,Bachelor,Finance,North America,0,2020-10-31
+939,68,45686.13470824718,9,Master,Education,Europe,0,2023-03-31
+940,36,35876.157239740314,9,Bachelor,Education,North America,0,2023-08-31
+941,38,68161.09308408629,8,Bachelor,Healthcare,North America,0,2019-06-30
+942,22,59285.5579742944,6,Master,Healthcare,Asia,0,2020-02-29
+943,35,43127.94519179399,8,Master,Education,South America,0,2023-01-31
+944,45,44634.24226596134,4,Master,Healthcare,Asia,0,2021-12-31
+945,59,44090.27955046368,7,PhD,Education,North America,0,2023-12-31
+946,39,43822.60768521621,6,Master,Healthcare,Australia,0,2020-07-31
+947,38,28331.638347128042,6,Master,Healthcare,Europe,0,2020-10-31
+948,23,25080.807600833483,7,Master,Education,South America,0,2018-07-31
+949,18,50435.70158572616,2,High School,Entertainment,Europe,1,2018-07-31
+950,22,66129.71209039033,7,Bachelor,Education,Australia,1,2021-11-30
+951,58,41934.65453858206,6,Master,Technology,South America,0,2018-08-31
+952,29,54551.67126386068,6,Bachelor,Healthcare,Asia,0,2018-01-31
+953,43,61013.91375765088,6,High School,Finance,North America,1,2018-03-31
+954,63,35099.32691624215,5,Bachelor,Healthcare,Australia,0,2022-05-31
+955,51,49700.368569201455,7,Bachelor,Technology,North America,0,2021-02-28
+956,66,40002.192780897276,5,Bachelor,Finance,North America,1,2022-03-31
+957,31,74091.7923774694,9,Master,Finance,Europe,0,2019-03-31
+958,43,73436.89260293171,6,PhD,Education,Australia,0,2023-07-31
+959,62,35114.85740187724,5,Master,Entertainment,North America,0,2023-04-30
+960,44,55788.265746264886,3,Master,Education,Asia,0,2023-08-31
+961,26,66013.98951218736,10,Bachelor,Finance,South America,0,2018-05-31
+962,43,62724.942505644955,3,Bachelor,Finance,Australia,0,2018-10-31
+963,64,51223.445524765484,4,Bachelor,Entertainment,Europe,0,2018-08-31
+964,39,69598.36192646521,4,Bachelor,Healthcare,Australia,0,2018-12-31
+965,64,36432.27966515851,5,High School,Entertainment,Europe,1,2023-04-30
+966,47,45453.605834079615,8,Bachelor,Education,South America,0,2022-11-30
+967,60,36835.363703606374,2,Bachelor,Healthcare,Asia,0,2023-07-31
+968,65,61737.40242050932,12,Bachelor,Education,North America,1,2022-02-28
+969,34,41260.44688550822,4,PhD,Entertainment,Australia,1,2019-11-30
+970,43,47431.26236844371,2,Bachelor,Healthcare,Europe,0,2021-04-30
+971,53,59265.05552398623,3,High School,Entertainment,South America,0,2019-06-30
+972,18,60473.74870666724,1,Bachelor,Technology,North America,0,2019-09-30
+973,25,36393.104806171235,8,Bachelor,Finance,South America,0,2018-01-31
+974,66,65849.82925659188,8,Bachelor,Healthcare,Asia,0,2021-02-28
+975,52,56835.34503000877,6,High School,Finance,North America,0,2021-05-31
+976,69,33774.45740629398,3,Bachelor,Technology,North America,0,2021-06-30
+977,32,30084.261563650805,5,PhD,Healthcare,North America,1,2018-09-30
+978,64,49762.70434606898,5,Bachelor,Finance,Europe,0,2019-11-30
+979,39,62751.40983975213,5,PhD,Finance,North America,1,2018-11-30
+980,31,63135.7379360147,3,Master,Healthcare,South America,1,2023-11-30
+981,43,55342.50315837264,9,High School,Finance,Europe,0,2020-07-31
+982,45,50730.12257490239,6,Master,Finance,North America,0,2020-02-29
+983,40,57676.06503618508,7,Bachelor,Healthcare,South America,0,2020-06-30
+984,31,37170.04228416112,5,High School,Finance,South America,1,2020-10-31
+985,41,75304.81794538087,4,Bachelor,Finance,Australia,0,2021-10-31
+986,19,75109.07627183781,4,Master,Education,South America,0,2023-09-30
+987,62,56432.18471931046,3,High School,Education,Asia,0,2018-05-31
+988,43,52959.50629989278,11,PhD,Technology,North America,0,2023-01-31
+989,31,43828.68541010944,4,Master,Education,North America,1,2021-02-28
+990,68,57931.23268699491,6,PhD,Education,North America,0,2020-04-30
+991,24,39630.23943474835,8,Bachelor,Technology,South America,0,2020-02-29
+992,20,16645.819535067036,4,PhD,Finance,South America,0,2023-01-31
+993,64,9288.390492633705,10,Bachelor,Finance,North America,0,2019-11-30
+994,40,38007.5250025477,4,High School,Education,Europe,1,2021-10-31
+995,63,52345.671843774166,6,Master,Technology,Europe,0,2020-06-30
+996,60,54979.57600930224,6,Master,Finance,Asia,1,2023-07-31
+997,64,42698.644872360725,5,Bachelor,Entertainment,Australia,0,2020-09-30
+998,62,52127.527507143546,4,Bachelor,Healthcare,Asia,0,2018-03-31
+999,35,45886.57464418204,7,High School,Healthcare,North America,0,2023-09-30
+1000,55,35010.30863524794,3,Bachelor,Healthcare,North America,1,2021-06-30
+1001,52,49193.832365463124,6,Bachelor,Education,North America,1,2023-02-28
+1002,68,62194.356685484745,5,Bachelor,Healthcare,Australia,0,2022-10-31
+1003,32,35689.073783805165,2,Bachelor,Healthcare,South America,0,2022-09-30
+1004,42,35695.930804704534,5,PhD,Entertainment,Australia,0,2018-01-31
+1005,54,33961.24109071762,1,Bachelor,Finance,Asia,0,2022-12-31
+1006,45,20952.21898237826,3,Master,Entertainment,South America,1,2023-09-30
+1007,27,42796.96438779472,6,PhD,Education,South America,0,2022-11-30
+1008,56,60711.29169428797,6,Bachelor,Healthcare,Asia,1,2021-10-31
+1009,34,52608.74125750644,12,High School,Finance,South America,0,2020-10-31
+1010,56,47461.2367391554,3,High School,Healthcare,Europe,1,2020-01-31
+1011,39,51935.971973602536,4,Master,Healthcare,Asia,0,2021-06-30
+1012,43,42665.27768856263,3,High School,Education,Asia,0,2020-05-31
+1013,61,20781.700441047917,4,Bachelor,Healthcare,Europe,1,2020-01-31
+1014,42,61755.78172721849,0,High School,Technology,Australia,0,2022-06-30
+1015,34,66066.86860676977,7,High School,Finance,Australia,0,2023-07-31
+1016,30,39077.64835898319,7,Bachelor,Finance,Australia,1,2019-03-31
+1017,37,47737.46569090166,3,PhD,Technology,South America,0,2018-04-30
+1018,42,46445.012434097596,4,Bachelor,Education,Europe,0,2021-02-28
+1019,21,55269.332141368126,6,PhD,Healthcare,Asia,0,2019-08-31
+1020,27,75348.40184939434,4,PhD,Healthcare,Asia,0,2019-11-30
+1021,20,67396.86867933959,3,High School,Finance,Asia,0,2021-01-31
+1022,58,44346.28661879156,4,Bachelor,Education,South America,0,2023-02-28
+1023,62,58136.957922503556,7,Master,Education,South America,0,2018-08-31
+1024,35,68815.35302859069,5,Master,Education,Australia,0,2021-01-31
+1025,64,56125.17746592167,4,Bachelor,Healthcare,South America,0,2021-09-30
+1026,53,49929.50893339741,11,PhD,Education,Australia,0,2020-09-30
+1027,64,56690.001420007786,2,High School,Technology,Australia,0,2018-07-31
+1028,39,39450.9271615479,4,High School,Entertainment,Asia,0,2019-10-31
+1029,51,41640.78313843878,5,Bachelor,Education,South America,0,2018-05-31
+1030,64,34039.48647198354,4,Bachelor,Entertainment,Australia,0,2019-03-31
+1031,25,54605.967748553645,4,High School,Healthcare,Europe,0,2019-09-30
+1032,57,48028.956409666425,1,Bachelor,Education,Europe,0,2019-05-31
+1033,66,37653.22907977881,2,High School,Finance,South America,1,2022-08-31
+1034,61,47537.308825692424,9,Bachelor,Healthcare,Asia,0,2022-02-28
+1035,36,57049.97391144755,6,Master,Technology,Asia,0,2018-07-31
+1036,59,78720.68458996988,7,Master,Technology,Australia,1,2022-02-28
+1037,58,65181.01797055787,6,Bachelor,Entertainment,South America,0,2022-12-31
+1038,54,15737.782137764894,4,Bachelor,Entertainment,Europe,0,2018-07-31
+1039,23,53589.627002305184,10,Bachelor,Finance,Australia,0,2021-04-30
+1040,69,71439.86394069283,3,High School,Finance,Australia,0,2021-09-30
+1041,43,29931.89763184651,9,Bachelor,Technology,North America,0,2022-11-30
+1042,51,58273.38905318636,0,High School,Education,South America,1,2022-07-31
+1043,62,46450.36721703431,8,Master,Technology,Australia,0,2023-04-30
+1044,23,67254.35796374241,7,PhD,Technology,Europe,1,2023-05-31
+1045,54,56063.85792520178,1,Bachelor,Finance,North America,0,2022-06-30
+1046,50,36739.7681816119,3,Master,Entertainment,Europe,1,2021-04-30
+1047,39,46987.22782564071,4,High School,Finance,Asia,0,2022-05-31
+1048,38,47874.56485928565,4,Bachelor,Finance,North America,0,2021-08-31
+1049,23,48152.32677784926,5,Master,Finance,North America,0,2023-03-31
+1050,23,66788.94417162894,8,Bachelor,Technology,Australia,0,2018-02-28
+1051,65,37360.70117914655,8,High School,Education,Asia,0,2019-09-30
+1052,21,65045.76964491776,4,Master,Technology,Australia,1,2022-02-28
+1053,47,45466.2548611772,1,Master,Healthcare,South America,0,2022-04-30
+1054,28,53352.66659493747,7,Master,Finance,Europe,0,2018-09-30
+1055,47,51085.663794215514,3,Master,Finance,Europe,0,2019-08-31
+1056,48,49672.91992877248,2,PhD,Healthcare,Australia,0,2019-06-30
+1057,41,49795.95748332016,7,High School,Finance,Europe,1,2020-06-30
+1058,26,71860.37837406532,2,High School,Finance,Europe,0,2023-05-31
+1059,20,62636.748873592165,8,Bachelor,Finance,South America,0,2019-12-31
+1060,68,44559.26465630105,6,High School,Healthcare,Asia,0,2021-11-30
+1061,48,73741.80881183138,4,Bachelor,Technology,North America,0,2021-08-31
+1062,57,54120.21610989279,6,Bachelor,Finance,Australia,1,2020-05-31
+1063,54,55364.36388985842,5,Bachelor,Education,Australia,0,2023-08-31
+1064,53,37440.21381002913,3,High School,Healthcare,South America,0,2019-05-31
+1065,41,42537.5201239229,9,PhD,Entertainment,South America,0,2018-05-31
+1066,48,39672.44738109237,5,High School,Healthcare,North America,0,2022-02-28
+1067,23,51291.09297490513,5,Bachelor,Technology,Asia,0,2021-04-30
+1068,19,59581.74619172314,6,Master,Healthcare,Australia,1,2021-10-31
+1069,37,55508.4844913332,5,Master,Entertainment,South America,0,2022-03-31
+1070,45,73820.66234104373,4,Bachelor,Education,Australia,1,2018-11-30
+1071,28,36683.629921831474,3,High School,Entertainment,Europe,0,2018-12-31
+1072,21,51723.03565308323,2,Bachelor,Healthcare,Australia,1,2019-01-31
+1073,32,30755.91006052558,6,High School,Entertainment,Asia,1,2023-04-30
+1074,23,36171.935425951066,3,High School,Healthcare,Asia,0,2018-08-31
+1075,66,68968.67566007696,4,Bachelor,Education,Australia,0,2023-05-31
+1076,47,43052.527002928015,6,Bachelor,Education,Europe,0,2018-09-30
+1077,55,37949.54305909594,4,Bachelor,Technology,Asia,1,2018-02-28
+1078,68,18050.346866255793,7,Bachelor,Education,South America,0,2019-01-31
+1079,19,37799.680283166235,9,PhD,Finance,Australia,0,2018-02-28
+1080,32,46920.795887075314,10,PhD,Entertainment,Europe,0,2023-08-31
+1081,28,29638.955603206836,7,Bachelor,Entertainment,South America,1,2021-12-31
+1082,25,46058.24916526297,6,High School,Healthcare,Australia,0,2018-03-31
+1083,43,69059.46590987335,5,Bachelor,Education,Europe,0,2023-08-31
+1084,68,39390.41989507501,4,High School,Technology,South America,0,2018-06-30
+1085,62,35849.254259450965,2,Bachelor,Technology,Asia,0,2018-05-31
+1086,61,33141.477997023605,3,Bachelor,Technology,Australia,0,2018-03-31
+1087,22,32873.538612263,4,Bachelor,Finance,Australia,0,2018-10-31
+1088,23,58033.661703326434,10,Bachelor,Education,Asia,1,2021-07-31
+1089,43,50730.03105324576,2,High School,Technology,North America,1,2019-07-31
+1090,21,64352.85318913361,1,Bachelor,Finance,South America,0,2019-02-28
+1091,36,80297.56837481383,4,Bachelor,Entertainment,Asia,0,2019-09-30
+1092,37,22544.13302136278,9,Bachelor,Healthcare,Australia,0,2021-07-31
+1093,50,55701.1806266266,6,Bachelor,Education,South America,0,2020-04-30
+1094,37,33220.70998349661,10,Bachelor,Education,South America,0,2019-09-30
+1095,66,61833.489470501765,6,Bachelor,Entertainment,North America,0,2020-12-31
+1096,29,45921.31998389846,4,Bachelor,Education,Australia,0,2019-12-31
+1097,64,50409.8414129626,4,High School,Education,Europe,1,2022-06-30
+1098,18,30752.338581052878,9,High School,Education,North America,0,2021-02-28
+1099,43,43603.59462330249,5,Bachelor,Education,North America,0,2019-05-31
+1100,31,51344.93376662389,4,High School,Finance,Europe,0,2019-10-31
+1101,55,70341.17220210063,2,Bachelor,Finance,Europe,1,2021-09-30
+1102,54,38081.59208887169,5,Master,Healthcare,North America,1,2023-01-31
+1103,28,41739.6264270453,4,PhD,Education,South America,0,2018-11-30
+1104,53,64164.344632734224,5,PhD,Entertainment,Asia,0,2023-01-31
+1105,30,37109.89574451034,2,High School,Technology,Asia,0,2021-02-28
+1106,60,67135.77715961188,6,PhD,Healthcare,North America,0,2023-06-30
+1107,20,49863.70137910616,5,Bachelor,Technology,South America,0,2020-09-30
+1108,50,54546.84442387765,4,Bachelor,Technology,Europe,0,2021-07-31
+1109,23,55512.834537640556,4,High School,Education,North America,0,2020-07-31
+1110,67,40756.69169890088,2,Master,Entertainment,Australia,0,2020-11-30
+1111,27,55848.30229208593,4,High School,Technology,South America,0,2021-01-31
+1112,22,38414.453235285495,6,Master,Technology,Australia,1,2021-11-30
+1113,40,42468.4549385168,5,High School,Healthcare,Australia,0,2019-11-30
+1114,27,58380.36449049913,7,Bachelor,Entertainment,North America,0,2020-12-31
+1115,61,54400.909334628544,1,Bachelor,Entertainment,South America,0,2021-04-30
+1116,19,48875.52573741428,2,High School,Technology,Australia,0,2019-03-31
+1117,30,31119.025261054838,5,High School,Entertainment,South America,0,2021-01-31
+1118,57,34862.62565975555,6,Bachelor,Healthcare,Asia,0,2018-04-30
+1119,19,54150.63565857477,8,High School,Healthcare,Australia,0,2019-10-31
+1120,37,60982.10845227674,5,Bachelor,Healthcare,Australia,0,2019-10-31
+1121,18,33355.31743218865,9,Bachelor,Education,South America,0,2019-05-31
+1122,54,37402.62128821749,1,Master,Technology,Asia,1,2023-12-31
+1123,26,52012.77761266579,3,Bachelor,Entertainment,Australia,0,2021-02-28
+1124,34,51691.8179394364,5,High School,Healthcare,North America,0,2019-12-31
+1125,26,25640.641868584382,4,Bachelor,Technology,South America,0,2018-06-30
+1126,28,52423.44520159983,2,High School,Technology,South America,0,2023-08-31
+1127,32,41024.482846546714,4,PhD,Education,Australia,0,2018-06-30
+1128,41,74615.69944593437,2,Master,Entertainment,Asia,0,2020-02-29
+1129,55,53737.978141034844,3,Bachelor,Entertainment,Australia,1,2021-05-31
+1130,52,56322.10174813854,9,High School,Healthcare,Europe,1,2021-02-28
+1131,47,56710.38953285916,5,Master,Healthcare,Australia,0,2021-07-31
+1132,48,31791.089290211534,2,Master,Technology,Europe,1,2022-05-31
+1133,66,79158.15339662906,6,Master,Entertainment,North America,0,2019-03-31
+1134,22,25656.3312882324,6,Master,Entertainment,South America,1,2022-08-31
+1135,61,61935.54712549613,6,Bachelor,Healthcare,South America,0,2022-08-31
+1136,67,59279.95906220974,4,High School,Finance,Asia,0,2020-07-31
+1137,31,42844.9643013056,8,Bachelor,Technology,Australia,0,2022-09-30
+1138,28,59996.754750700835,5,Bachelor,Entertainment,North America,0,2022-03-31
+1139,26,45236.40201764393,8,Bachelor,Education,Europe,0,2019-12-31
+1140,51,39868.078327163326,9,Bachelor,Education,Asia,1,2022-10-31
+1141,29,57043.38754029391,5,High School,Finance,North America,0,2018-04-30
+1142,52,34901.58513368147,6,Bachelor,Healthcare,North America,0,2018-10-31
+1143,52,46636.172618636454,6,Bachelor,Healthcare,Europe,0,2023-03-31
