@@ -1,0 +1,19 @@
+digraph G {
+	overlap=scale splines=true
+	edge [fontsize=12]
+	node [fillcolor="#cae6df" shape=circle style=filled]
+	Satisfaccion [label=Satisfaccion]
+	node [shape=box style=""]
+	is_hs [label=is_hs]
+	proporcion_adultos [label=proporcion_adultos]
+	proporcion_alimento [label=proporcion_alimento]
+	proporcion_extras [label=proporcion_extras]
+	proporcion_total [label=proporcion_total]
+	temperatura_promedio [label=temperatura_promedio]
+	Satisfaccion -> temperatura_promedio [label=1.000]
+	Satisfaccion -> proporcion_adultos [label="-0.205\np-val: 0.01"]
+	Satisfaccion -> proporcion_alimento [label="-0.341\np-val: 0.00"]
+	Satisfaccion -> proporcion_extras [label="-0.147\np-val: 0.05"]
+	Satisfaccion -> proporcion_total [label="0.302\np-val: 0.00"]
+	Satisfaccion -> is_hs [label="0.256\np-val: 0.00"]
+}
