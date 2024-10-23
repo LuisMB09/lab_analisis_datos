@@ -1,0 +1,13 @@
+digraph G {
+	overlap=scale splines=true
+	edge [fontsize=12]
+	node [fillcolor="#cae6df" shape=circle style=filled]
+	Desconfianza [label=Desconfianza]
+	node [shape=box style=""]
+	Calidad_Producto [label=Calidad_Producto]
+	Probabilidad_Recomendacion [label=Probabilidad_Recomendacion]
+	Tiempo_Respuesta [label=Tiempo_Respuesta]
+	Desconfianza -> Tiempo_Respuesta [label=1.000]
+	Desconfianza -> Calidad_Producto [label="-0.141\np-val: 0.03"]
+	Desconfianza -> Probabilidad_Recomendacion [label="-1.299\np-val: 0.02"]
+}
