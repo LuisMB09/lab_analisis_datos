@@ -2,8 +2,8 @@ digraph G {
 	overlap=scale splines=true
 	edge [fontsize=12]
 	node [fillcolor="#cae6df" shape=circle style=filled]
-	Confianza [label=Confianza]
 	Calidad [label=Calidad]
+	Confianza [label=Confianza]
 	node [shape=box style=""]
 	Recomendaciones [label=Recomendaciones]
 	Resolucion_Problemas [label=Resolucion_Problemas]
@@ -11,8 +11,8 @@ digraph G {
 	Tiempo_Respuesta [label=Tiempo_Respuesta]
 	Uso [label=Uso]
 	Confianza -> Uso [label=1.000]
-	Confianza -> Seguridad [label="0.857\np-val: 0.00"]
+	Confianza -> Seguridad [label="0.858\np-val: 0.00"]
 	Confianza -> Recomendaciones [label="0.889\np-val: 0.00"]
 	Calidad -> Tiempo_Respuesta [label=1.000]
-	Calidad -> Resolucion_Problemas [label="1.208\np-val: 0.05"]
+	Calidad -> Resolucion_Problemas [label="1.203\np-val: 0.05"]
 }
