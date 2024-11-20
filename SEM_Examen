@@ -2,8 +2,8 @@ digraph G {
 	overlap=scale splines=true
 	edge [fontsize=12]
 	node [fillcolor="#cae6df" shape=circle style=filled]
-	Soporte [label=Soporte]
 	Engagement [label=Engagement]
+	Soporte [label=Soporte]
 	node [shape=box style=""]
 	interacciones [label=interacciones]
 	resolucion_problemas [label=resolucion_problemas]
