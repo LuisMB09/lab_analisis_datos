@@ -1,0 +1,18 @@
+digraph G {
+	overlap=scale splines=true
+	edge [fontsize=12]
+	node [fillcolor="#cae6df" shape=circle style=filled]
+	Soporte [label=Soporte]
+	Engagement [label=Engagement]
+	node [shape=box style=""]
+	interacciones [label=interacciones]
+	resolucion_problemas [label=resolucion_problemas]
+	sesiones_activas [label=sesiones_activas]
+	tiempo_promedio [label=tiempo_promedio]
+	tiempo_respuesta [label=tiempo_respuesta]
+	Engagement -> tiempo_promedio [label=1.000]
+	Engagement -> interacciones [label="0.135\np-val: 0.96"]
+	Engagement -> sesiones_activas [label="-0.029\np-val: 0.96"]
+	Soporte -> tiempo_respuesta [label=1.000]
+	Soporte -> resolucion_problemas [label="-0.068\np-val: 0.98"]
+}
